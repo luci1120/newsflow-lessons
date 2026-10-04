@@ -1,20 +1,33 @@
 {
-  "updatedAt": "2026-10-03T15:19:03Z",
-  "count": 10,
+  "updatedAt": "2026-10-04T13:12:49Z",
+  "count": 14,
   "keepDays": null,
   "lessons": [
+    "xJjjDgSXukU.json",
     "tX6Om_7V9OM.json",
     "4EBio7ZtQTU.json",
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
+    "5WXOaTk2SvE.json",
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
+    "WgsEwAU553g.json",
     "S6_Q0fca7ag.json"
   ],
   "entries": [
+    {
+      "file": "xJjjDgSXukU.json",
+      "videoId": "xJjjDgSXukU",
+      "title": "CNN10 Special Edition: Dive behind the scenes at one of the world's largest aquariums",
+      "source": "CNN10",
+      "durationSecs": 607,
+      "publishedAt": "2026-10-04",
+      "segments": 101
+    },
     {
       "file": "tX6Om_7V9OM.json",
       "videoId": "tX6Om_7V9OM",
@@ -61,6 +74,15 @@
       "segments": 97
     },
     {
+      "file": "j4Y58zRevb0.json",
+      "videoId": "j4Y58zRevb0",
+      "title": "How this New York City community cleanup project is helping adults make new friends",
+      "source": "CBS",
+      "durationSecs": 93,
+      "publishedAt": "2026-10-04",
+      "segments": 19
+    },
+    {
       "file": "-Hzuhz0ffoY.json",
       "videoId": "-Hzuhz0ffoY",
       "title": "G7 nations will release 100 million barrels of oil and diesel to combat high prices",
@@ -68,6 +90,15 @@
       "durationSecs": 238,
       "publishedAt": "2026-10-03",
       "segments": 46
+    },
+    {
+      "file": "5WXOaTk2SvE.json",
+      "videoId": "5WXOaTk2SvE",
+      "title": "PBS News Hour full episode, Oct. 2, 2026",
+      "source": "PBS",
+      "durationSecs": 3404,
+      "publishedAt": "2026-10-04",
+      "segments": 585
     },
     {
       "file": "JZi_N5elETs.json",
@@ -97,6 +128,15 @@
       "segments": 97
     },
     {
+      "file": "WgsEwAU553g.json",
+      "videoId": "WgsEwAU553g",
+      "title": "Good Morning America: News to start your day | October 4",
+      "source": "ABC",
+      "durationSecs": 1078,
+      "publishedAt": "2026-10-04",
+      "segments": 174
+    },
+    {
       "file": "S6_Q0fca7ag.json",
       "videoId": "S6_Q0fca7ag",
       "title": "ABC World News Tonight with David Muir Full Broadcast",
@@ -109,8 +149,9 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 5,
+      "count": 6,
       "lessons": [
+        "xJjjDgSXukU.json",
         "tX6Om_7V9OM.json",
         "4EBio7ZtQTU.json",
         "K7IHbN5MMb8.json",
@@ -120,15 +161,17 @@
     },
     {
       "source": "CBS",
-      "count": 1,
+      "count": 2,
       "lessons": [
+        "j4Y58zRevb0.json",
         "-Hzuhz0ffoY.json"
       ]
     },
     {
       "source": "PBS",
-      "count": 3,
+      "count": 4,
       "lessons": [
+        "5WXOaTk2SvE.json",
         "JZi_N5elETs.json",
         "a39RzsEcbdI.json",
         "yF1rzzxe2vc.json"
@@ -136,8 +179,9 @@
     },
     {
       "source": "ABC",
-      "count": 1,
+      "count": 2,
       "lessons": [
+        "WgsEwAU553g.json",
         "S6_Q0fca7ag.json"
       ]
     }
