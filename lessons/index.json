@@ -1,24 +1,37 @@
 {
-  "updatedAt": "2026-10-04T13:12:49Z",
-  "count": 14,
+  "updatedAt": "2026-10-06T12:38:40Z",
+  "count": 18,
   "keepDays": null,
   "lessons": [
+    "lNBAu4p_kBI.json",
     "xJjjDgSXukU.json",
     "tX6Om_7V9OM.json",
     "4EBio7ZtQTU.json",
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
+    "218gMy1KfyQ.json",
     "5WXOaTk2SvE.json",
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
+    "27cHKDvpH4Q.json",
     "WgsEwAU553g.json",
     "S6_Q0fca7ag.json"
   ],
   "entries": [
+    {
+      "file": "lNBAu4p_kBI.json",
+      "videoId": "lNBAu4p_kBI",
+      "title": "One of Hawaii's most iconic landmarks collapses into the sea | October 6, 2026",
+      "source": "CNN10",
+      "durationSecs": 596,
+      "publishedAt": "2026-10-06",
+      "segments": 103
+    },
     {
       "file": "xJjjDgSXukU.json",
       "videoId": "xJjjDgSXukU",
@@ -74,6 +87,15 @@
       "segments": 97
     },
     {
+      "file": "wG45UuhF_S8.json",
+      "videoId": "wG45UuhF_S8",
+      "title": "Suspected Chinese agent arrested in LA after allegedly surveilling son of Taiwanese president",
+      "source": "CBS",
+      "durationSecs": 170,
+      "publishedAt": "2026-10-06",
+      "segments": 27
+    },
+    {
       "file": "j4Y58zRevb0.json",
       "videoId": "j4Y58zRevb0",
       "title": "How this New York City community cleanup project is helping adults make new friends",
@@ -90,6 +112,15 @@
       "durationSecs": 238,
       "publishedAt": "2026-10-03",
       "segments": 46
+    },
+    {
+      "file": "218gMy1KfyQ.json",
+      "videoId": "218gMy1KfyQ",
+      "title": "PBS News Hour full episode, Oct. 5, 2026",
+      "source": "PBS",
+      "durationSecs": 3396,
+      "publishedAt": "2026-10-06",
+      "segments": 564
     },
     {
       "file": "5WXOaTk2SvE.json",
@@ -128,6 +159,15 @@
       "segments": 97
     },
     {
+      "file": "27cHKDvpH4Q.json",
+      "videoId": "27cHKDvpH4Q",
+      "title": "Good Morning America: News to start your day | October 6",
+      "source": "ABC",
+      "durationSecs": 880,
+      "publishedAt": "2026-10-06",
+      "segments": 154
+    },
+    {
       "file": "WgsEwAU553g.json",
       "videoId": "WgsEwAU553g",
       "title": "Good Morning America: News to start your day | October 4",
@@ -149,8 +189,9 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 6,
+      "count": 7,
       "lessons": [
+        "lNBAu4p_kBI.json",
         "xJjjDgSXukU.json",
         "tX6Om_7V9OM.json",
         "4EBio7ZtQTU.json",
@@ -161,16 +202,18 @@
     },
     {
       "source": "CBS",
-      "count": 2,
+      "count": 3,
       "lessons": [
+        "wG45UuhF_S8.json",
         "j4Y58zRevb0.json",
         "-Hzuhz0ffoY.json"
       ]
     },
     {
       "source": "PBS",
-      "count": 4,
+      "count": 5,
       "lessons": [
+        "218gMy1KfyQ.json",
         "5WXOaTk2SvE.json",
         "JZi_N5elETs.json",
         "a39RzsEcbdI.json",
@@ -179,8 +222,9 @@
     },
     {
       "source": "ABC",
-      "count": 2,
+      "count": 3,
       "lessons": [
+        "27cHKDvpH4Q.json",
         "WgsEwAU553g.json",
         "S6_Q0fca7ag.json"
       ]
