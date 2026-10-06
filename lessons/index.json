@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-10-06T12:38:40Z",
-  "count": 18,
+  "updatedAt": "2026-10-06T13:02:09Z",
+  "count": 22,
   "keepDays": null,
   "lessons": [
+    "QkjFrsyfkeg.json",
     "lNBAu4p_kBI.json",
     "xJjjDgSXukU.json",
     "tX6Om_7V9OM.json",
@@ -10,19 +11,31 @@
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "dhxsGW7Tbiw.json",
     "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
     "218gMy1KfyQ.json",
+    "GuYpIWkg-ZM.json",
     "5WXOaTk2SvE.json",
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
     "27cHKDvpH4Q.json",
+    "cgLoyMBUBq8.json",
     "WgsEwAU553g.json",
     "S6_Q0fca7ag.json"
   ],
   "entries": [
+    {
+      "file": "QkjFrsyfkeg.json",
+      "videoId": "QkjFrsyfkeg",
+      "title": "Full Interview: Trumpeter pivots to sing National Anthem after horn malfunction",
+      "source": "CNN10",
+      "durationSecs": 563,
+      "publishedAt": "2026-10-06",
+      "segments": 101
+    },
     {
       "file": "lNBAu4p_kBI.json",
       "videoId": "lNBAu4p_kBI",
@@ -87,6 +100,15 @@
       "segments": 97
     },
     {
+      "file": "dhxsGW7Tbiw.json",
+      "videoId": "dhxsGW7Tbiw",
+      "title": "Latest Nobel Prize winner could shape how we understand the brain",
+      "source": "CBS",
+      "durationSecs": 189,
+      "publishedAt": "2026-10-06",
+      "segments": 35
+    },
+    {
       "file": "wG45UuhF_S8.json",
       "videoId": "wG45UuhF_S8",
       "title": "Suspected Chinese agent arrested in LA after allegedly surveilling son of Taiwanese president",
@@ -121,6 +143,15 @@
       "durationSecs": 3396,
       "publishedAt": "2026-10-06",
       "segments": 564
+    },
+    {
+      "file": "GuYpIWkg-ZM.json",
+      "videoId": "GuYpIWkg-ZM",
+      "title": "'American Pope' traces Leo's journey from Chicago to the Vatican",
+      "source": "PBS",
+      "durationSecs": 514,
+      "publishedAt": "2026-10-06",
+      "segments": 95
     },
     {
       "file": "5WXOaTk2SvE.json",
@@ -168,6 +199,15 @@
       "segments": 154
     },
     {
+      "file": "cgLoyMBUBq8.json",
+      "videoId": "cgLoyMBUBq8",
+      "title": "New details emerge in Cornell University investigation as campus protests",
+      "source": "ABC",
+      "durationSecs": 171,
+      "publishedAt": "2026-10-06",
+      "segments": 32
+    },
+    {
       "file": "WgsEwAU553g.json",
       "videoId": "WgsEwAU553g",
       "title": "Good Morning America: News to start your day | October 4",
@@ -189,8 +229,9 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 7,
+      "count": 8,
       "lessons": [
+        "QkjFrsyfkeg.json",
         "lNBAu4p_kBI.json",
         "xJjjDgSXukU.json",
         "tX6Om_7V9OM.json",
@@ -202,8 +243,9 @@
     },
     {
       "source": "CBS",
-      "count": 3,
+      "count": 4,
       "lessons": [
+        "dhxsGW7Tbiw.json",
         "wG45UuhF_S8.json",
         "j4Y58zRevb0.json",
         "-Hzuhz0ffoY.json"
@@ -211,9 +253,10 @@
     },
     {
       "source": "PBS",
-      "count": 5,
+      "count": 6,
       "lessons": [
         "218gMy1KfyQ.json",
+        "GuYpIWkg-ZM.json",
         "5WXOaTk2SvE.json",
         "JZi_N5elETs.json",
         "a39RzsEcbdI.json",
@@ -222,9 +265,10 @@
     },
     {
       "source": "ABC",
-      "count": 3,
+      "count": 4,
       "lessons": [
         "27cHKDvpH4Q.json",
+        "cgLoyMBUBq8.json",
         "WgsEwAU553g.json",
         "S6_Q0fca7ag.json"
       ]
