@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-10-07T13:09:34Z",
-  "count": 26,
+  "updatedAt": "2026-10-09T09:49:09Z",
+  "count": 30,
   "keepDays": null,
   "lessons": [
+    "jH_C8UbT-eA.json",
     "QkjFrsyfkeg.json",
     "lNBAu4p_kBI.json",
     "LcbCB5EvOX8.json",
@@ -12,11 +13,13 @@
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "A_du2mhn4RI.json",
     "JnYTmO1SDSc.json",
     "dhxsGW7Tbiw.json",
     "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
+    "6xTvyTunXIo.json",
     "vJZNxqi4pd8.json",
     "218gMy1KfyQ.json",
     "GuYpIWkg-ZM.json",
@@ -24,6 +27,7 @@
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
+    "8SDteoXq19U.json",
     "f9Ug1Mvb8B4.json",
     "27cHKDvpH4Q.json",
     "cgLoyMBUBq8.json",
@@ -31,6 +35,15 @@
     "S6_Q0fca7ag.json"
   ],
   "entries": [
+    {
+      "file": "jH_C8UbT-eA.json",
+      "videoId": "jH_C8UbT-eA",
+      "title": "A history-making hurricane becomes the Atlantic season's first storm | October 9, 2026",
+      "source": "CNN10",
+      "durationSecs": 523,
+      "publishedAt": "2026-10-09",
+      "segments": 96
+    },
     {
       "file": "QkjFrsyfkeg.json",
       "videoId": "QkjFrsyfkeg",
@@ -113,6 +126,15 @@
       "segments": 97
     },
     {
+      "file": "A_du2mhn4RI.json",
+      "videoId": "A_du2mhn4RI",
+      "title": "Mamdani, NYC officials give update on ICE shooting",
+      "source": "CBS",
+      "durationSecs": 572,
+      "publishedAt": "2026-10-09",
+      "segments": 93
+    },
+    {
       "file": "JnYTmO1SDSc.json",
       "videoId": "JnYTmO1SDSc",
       "title": "How Israeli and Palestinian kids are coping 3 years after Oct. 7, 2023",
@@ -156,6 +178,15 @@
       "durationSecs": 238,
       "publishedAt": "2026-10-03",
       "segments": 46
+    },
+    {
+      "file": "6xTvyTunXIo.json",
+      "videoId": "6xTvyTunXIo",
+      "title": "PBS News Hour full episode, Oct. 8, 2026",
+      "source": "PBS",
+      "durationSecs": 3403,
+      "publishedAt": "2026-10-09",
+      "segments": 541
     },
     {
       "file": "vJZNxqi4pd8.json",
@@ -221,6 +252,15 @@
       "segments": 97
     },
     {
+      "file": "8SDteoXq19U.json",
+      "videoId": "8SDteoXq19U",
+      "title": "Hurricane Isaias strengthens to a Category 2 storm",
+      "source": "ABC",
+      "durationSecs": 89,
+      "publishedAt": "2026-10-09",
+      "segments": 15
+    },
+    {
       "file": "f9Ug1Mvb8B4.json",
       "videoId": "f9Ug1Mvb8B4",
       "title": "Tropical Storm Isaias threatens Gulf Coast",
@@ -269,8 +309,9 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 9,
+      "count": 10,
       "lessons": [
+        "jH_C8UbT-eA.json",
         "QkjFrsyfkeg.json",
         "lNBAu4p_kBI.json",
         "LcbCB5EvOX8.json",
@@ -284,8 +325,9 @@
     },
     {
       "source": "CBS",
-      "count": 5,
+      "count": 6,
       "lessons": [
+        "A_du2mhn4RI.json",
         "JnYTmO1SDSc.json",
         "dhxsGW7Tbiw.json",
         "wG45UuhF_S8.json",
@@ -295,8 +337,9 @@
     },
     {
       "source": "PBS",
-      "count": 7,
+      "count": 8,
       "lessons": [
+        "6xTvyTunXIo.json",
         "vJZNxqi4pd8.json",
         "218gMy1KfyQ.json",
         "GuYpIWkg-ZM.json",
@@ -308,8 +351,9 @@
     },
     {
       "source": "ABC",
-      "count": 5,
+      "count": 6,
       "lessons": [
+        "8SDteoXq19U.json",
         "f9Ug1Mvb8B4.json",
         "27cHKDvpH4Q.json",
         "cgLoyMBUBq8.json",

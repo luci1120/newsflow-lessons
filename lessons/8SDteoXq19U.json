@@ -1,0 +1,732 @@
+{
+  "videoId": "8SDteoXq19U",
+  "title": "Hurricane Isaias strengthens to a Category 2 storm",
+  "source": "ABC",
+  "durationSecs": 89,
+  "publishedAt": "2026-10-09",
+  "segments": [
+    {
+      "index": 0,
+      "startMs": 1040,
+      "endMs": 8700,
+      "transcript": "Hurricane Isaias, strengthening to a category two storm as it closes in on the gulf coast, with winds topping 100 MPH.",
+      "solution": [
+        [
+          "Hurricane"
+        ],
+        [
+          "Isaias,"
+        ],
+        [
+          "strengthening"
+        ],
+        [
+          "to"
+        ],
+        [
+          "a"
+        ],
+        [
+          "category"
+        ],
+        [
+          "two"
+        ],
+        [
+          "storm"
+        ],
+        [
+          "as"
+        ],
+        [
+          "it"
+        ],
+        [
+          "closes"
+        ],
+        [
+          "in"
+        ],
+        [
+          "on"
+        ],
+        [
+          "the"
+        ],
+        [
+          "gulf"
+        ],
+        [
+          "coast,"
+        ],
+        [
+          "with"
+        ],
+        [
+          "winds"
+        ],
+        [
+          "topping"
+        ],
+        [
+          "100"
+        ],
+        [
+          "MPH."
+        ]
+      ]
+    },
+    {
+      "index": 1,
+      "startMs": 9400,
+      "endMs": 13520,
+      "transcript": "It's expected to make landfall near Pensacola florida tonight or early tomorrow.",
+      "solution": [
+        [
+          "It's"
+        ],
+        [
+          "expected"
+        ],
+        [
+          "to"
+        ],
+        [
+          "make"
+        ],
+        [
+          "landfall"
+        ],
+        [
+          "near"
+        ],
+        [
+          "Pensacola"
+        ],
+        [
+          "florida"
+        ],
+        [
+          "tonight"
+        ],
+        [
+          "or"
+        ],
+        [
+          "early"
+        ],
+        [
+          "tomorrow."
+        ]
+      ]
+    },
+    {
+      "index": 2,
+      "startMs": 14940,
+      "endMs": 19380,
+      "transcript": "The rain already coming down in ST Petersburg and more is on the way.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "rain"
+        ],
+        [
+          "already"
+        ],
+        [
+          "coming"
+        ],
+        [
+          "down"
+        ],
+        [
+          "in"
+        ],
+        [
+          "ST"
+        ],
+        [
+          "Petersburg"
+        ],
+        [
+          "and"
+        ],
+        [
+          "more"
+        ],
+        [
+          "is"
+        ],
+        [
+          "on"
+        ],
+        [
+          "the"
+        ],
+        [
+          "way."
+        ]
+      ]
+    },
+    {
+      "index": 3,
+      "startMs": 19940,
+      "endMs": 27240,
+      "transcript": "Forecasters warning of up to 15 inches of rain in some areas with storm surge up to seven ft and possible tornadoes.",
+      "solution": [
+        [
+          "Forecasters"
+        ],
+        [
+          "warning"
+        ],
+        [
+          "of"
+        ],
+        [
+          "up"
+        ],
+        [
+          "to"
+        ],
+        [
+          "15"
+        ],
+        [
+          "inches"
+        ],
+        [
+          "of"
+        ],
+        [
+          "rain"
+        ],
+        [
+          "in"
+        ],
+        [
+          "some"
+        ],
+        [
+          "areas"
+        ],
+        [
+          "with"
+        ],
+        [
+          "storm"
+        ],
+        [
+          "surge"
+        ],
+        [
+          "up"
+        ],
+        [
+          "to"
+        ],
+        [
+          "seven"
+        ],
+        [
+          "ft"
+        ],
+        [
+          "and"
+        ],
+        [
+          "possible"
+        ],
+        [
+          "tornadoes."
+        ]
+      ]
+    },
+    {
+      "index": 4,
+      "startMs": 27700,
+      "endMs": 36380,
+      "transcript": "States of emergency now declared in parts of Alabama, florida communities braced for fl winds and potentially lon",
+      "solution": [
+        [
+          "States"
+        ],
+        [
+          "of"
+        ],
+        [
+          "emergency"
+        ],
+        [
+          "now"
+        ],
+        [
+          "declared"
+        ],
+        [
+          "in"
+        ],
+        [
+          "parts"
+        ],
+        [
+          "of"
+        ],
+        [
+          "Alabama,"
+        ],
+        [
+          "florida"
+        ],
+        [
+          "communities"
+        ],
+        [
+          "braced"
+        ],
+        [
+          "for"
+        ],
+        [
+          "fl"
+        ],
+        [
+          "winds"
+        ],
+        [
+          "and"
+        ],
+        [
+          "potentially"
+        ],
+        [
+          "lon"
+        ]
+      ]
+    },
+    {
+      "index": 5,
+      "startMs": 37160,
+      "endMs": 41280,
+      "transcript": "6000 utility lineman uh a",
+      "solution": [
+        [
+          "6000"
+        ],
+        [
+          "utility"
+        ],
+        [
+          "lineman"
+        ],
+        [
+          "uh"
+        ],
+        [
+          "a"
+        ]
+      ]
+    },
+    {
+      "index": 6,
+      "startMs": 42160,
+      "endMs": 48440,
+      "transcript": "Are standing by to support storm. Businesses boarding",
+      "solution": [
+        [
+          "Are"
+        ],
+        [
+          "standing"
+        ],
+        [
+          "by"
+        ],
+        [
+          "to"
+        ],
+        [
+          "support"
+        ],
+        [
+          "storm."
+        ],
+        [
+          "Businesses"
+        ],
+        [
+          "boarding"
+        ]
+      ]
+    },
+    {
+      "index": 7,
+      "startMs": 49340,
+      "endMs": 54420,
+      "transcript": "Under mandatory evacuati filling up sandbags, rush",
+      "solution": [
+        [
+          "Under"
+        ],
+        [
+          "mandatory"
+        ],
+        [
+          "evacuati"
+        ],
+        [
+          "filling"
+        ],
+        [
+          "up"
+        ],
+        [
+          "sandbags,"
+        ],
+        [
+          "rush"
+        ]
+      ]
+    },
+    {
+      "index": 8,
+      "startMs": 55520,
+      "endMs": 57560,
+      "transcript": "Groceries, many shelves a ready.",
+      "solution": [
+        [
+          "Groceries,"
+        ],
+        [
+          "many"
+        ],
+        [
+          "shelves"
+        ],
+        [
+          "a"
+        ],
+        [
+          "ready."
+        ]
+      ]
+    },
+    {
+      "index": 9,
+      "startMs": 57740,
+      "endMs": 60640,
+      "transcript": "Bear water and toilet paper, hard to find.",
+      "solution": [
+        [
+          "Bear"
+        ],
+        [
+          "water"
+        ],
+        [
+          "and"
+        ],
+        [
+          "toilet"
+        ],
+        [
+          "paper,"
+        ],
+        [
+          "hard"
+        ],
+        [
+          "to"
+        ],
+        [
+          "find."
+        ]
+      ]
+    },
+    {
+      "index": 10,
+      "startMs": 60880,
+      "endMs": 63700,
+      "transcript": "I couldn't get a lot of stuff because it's sold out.",
+      "solution": [
+        [
+          "I"
+        ],
+        [
+          "couldn't"
+        ],
+        [
+          "get"
+        ],
+        [
+          "a"
+        ],
+        [
+          "lot"
+        ],
+        [
+          "of"
+        ],
+        [
+          "stuff"
+        ],
+        [
+          "because"
+        ],
+        [
+          "it's"
+        ],
+        [
+          "sold"
+        ],
+        [
+          "out."
+        ]
+      ]
+    },
+    {
+      "index": 11,
+      "startMs": 63880,
+      "endMs": 68020,
+      "transcript": "Gas stations facing long lines, some even running out of fuel.",
+      "solution": [
+        [
+          "Gas"
+        ],
+        [
+          "stations"
+        ],
+        [
+          "facing"
+        ],
+        [
+          "long"
+        ],
+        [
+          "lines,"
+        ],
+        [
+          "some"
+        ],
+        [
+          "even"
+        ],
+        [
+          "running"
+        ],
+        [
+          "out"
+        ],
+        [
+          "of"
+        ],
+        [
+          "fuel."
+        ]
+      ]
+    },
+    {
+      "index": 12,
+      "startMs": 68020,
+      "endMs": 73180,
+      "transcript": "The storm also disrupting oil production in the Gulf as companies evacuate offshore rigs.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "storm"
+        ],
+        [
+          "also"
+        ],
+        [
+          "disrupting"
+        ],
+        [
+          "oil"
+        ],
+        [
+          "production"
+        ],
+        [
+          "in"
+        ],
+        [
+          "the"
+        ],
+        [
+          "Gulf"
+        ],
+        [
+          "as"
+        ],
+        [
+          "companies"
+        ],
+        [
+          "evacuate"
+        ],
+        [
+          "offshore"
+        ],
+        [
+          "rigs."
+        ]
+      ]
+    },
+    {
+      "index": 13,
+      "startMs": 73500,
+      "endMs": 78120,
+      "transcript": "We don't know if or how long these refineries are going to be shut down.",
+      "solution": [
+        [
+          "We"
+        ],
+        [
+          "don't"
+        ],
+        [
+          "know"
+        ],
+        [
+          "if"
+        ],
+        [
+          "or"
+        ],
+        [
+          "how"
+        ],
+        [
+          "long"
+        ],
+        [
+          "these"
+        ],
+        [
+          "refineries"
+        ],
+        [
+          "are"
+        ],
+        [
+          "going"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "shut"
+        ],
+        [
+          "down."
+        ]
+      ]
+    },
+    {
+      "index": 14,
+      "startMs": 78440,
+      "endMs": 89880,
+      "transcript": "But if they do sustain significant damage and are down for weeks or months, then we could see gasoline and diesel prices increase about five or seven cents a gallon.",
+      "solution": [
+        [
+          "But"
+        ],
+        [
+          "if"
+        ],
+        [
+          "they"
+        ],
+        [
+          "do"
+        ],
+        [
+          "sustain"
+        ],
+        [
+          "significant"
+        ],
+        [
+          "damage"
+        ],
+        [
+          "and"
+        ],
+        [
+          "are"
+        ],
+        [
+          "down"
+        ],
+        [
+          "for"
+        ],
+        [
+          "weeks"
+        ],
+        [
+          "or"
+        ],
+        [
+          "months,"
+        ],
+        [
+          "then"
+        ],
+        [
+          "we"
+        ],
+        [
+          "could"
+        ],
+        [
+          "see"
+        ],
+        [
+          "gasoline"
+        ],
+        [
+          "and"
+        ],
+        [
+          "diesel"
+        ],
+        [
+          "prices"
+        ],
+        [
+          "increase"
+        ],
+        [
+          "about"
+        ],
+        [
+          "five"
+        ],
+        [
+          "or"
+        ],
+        [
+          "seven"
+        ],
+        [
+          "cents"
+        ],
+        [
+          "a"
+        ],
+        [
+          "gallon."
+        ]
+      ]
+    }
+  ]
+}
