@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-10-09T09:49:09Z",
-  "count": 30,
+  "updatedAt": "2026-10-09T13:00:24Z",
+  "count": 34,
   "keepDays": null,
   "lessons": [
     "jH_C8UbT-eA.json",
+    "cKoPl6VV3p0.json",
     "QkjFrsyfkeg.json",
     "lNBAu4p_kBI.json",
     "LcbCB5EvOX8.json",
@@ -14,12 +15,14 @@
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
     "A_du2mhn4RI.json",
+    "CFD-NDbIBlI.json",
     "JnYTmO1SDSc.json",
     "dhxsGW7Tbiw.json",
     "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
     "6xTvyTunXIo.json",
+    "o_ZtmSgTXjQ.json",
     "vJZNxqi4pd8.json",
     "218gMy1KfyQ.json",
     "GuYpIWkg-ZM.json",
@@ -28,6 +31,7 @@
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
     "8SDteoXq19U.json",
+    "Dyit3kBu5Ns.json",
     "f9Ug1Mvb8B4.json",
     "27cHKDvpH4Q.json",
     "cgLoyMBUBq8.json",
@@ -43,6 +47,15 @@
       "durationSecs": 523,
       "publishedAt": "2026-10-09",
       "segments": 96
+    },
+    {
+      "file": "cKoPl6VV3p0.json",
+      "videoId": "cKoPl6VV3p0",
+      "title": "Meet the team working to outsmart the world's deadliest animal | October 8, 2026",
+      "source": "CNN10",
+      "durationSecs": 628,
+      "publishedAt": "2026-10-08",
+      "segments": 112
     },
     {
       "file": "QkjFrsyfkeg.json",
@@ -135,6 +148,15 @@
       "segments": 93
     },
     {
+      "file": "CFD-NDbIBlI.json",
+      "videoId": "CFD-NDbIBlI",
+      "title": "Pentagon will live stream Fort Hood shooter's execution, official says",
+      "source": "CBS",
+      "durationSecs": 243,
+      "publishedAt": "2026-10-09",
+      "segments": 44
+    },
+    {
       "file": "JnYTmO1SDSc.json",
       "videoId": "JnYTmO1SDSc",
       "title": "How Israeli and Palestinian kids are coping 3 years after Oct. 7, 2023",
@@ -187,6 +209,15 @@
       "durationSecs": 3403,
       "publishedAt": "2026-10-09",
       "segments": 541
+    },
+    {
+      "file": "o_ZtmSgTXjQ.json",
+      "videoId": "o_ZtmSgTXjQ",
+      "title": "AI startup touts new possibilities for video creators, but concerns remain",
+      "source": "PBS",
+      "durationSecs": 389,
+      "publishedAt": "2026-10-09",
+      "segments": 62
     },
     {
       "file": "vJZNxqi4pd8.json",
@@ -261,6 +292,15 @@
       "segments": 15
     },
     {
+      "file": "Dyit3kBu5Ns.json",
+      "videoId": "Dyit3kBu5Ns",
+      "title": "Hurricane Isaias closes in on Gulf Coast",
+      "source": "ABC",
+      "durationSecs": 100,
+      "publishedAt": "2026-10-09",
+      "segments": 15
+    },
+    {
       "file": "f9Ug1Mvb8B4.json",
       "videoId": "f9Ug1Mvb8B4",
       "title": "Tropical Storm Isaias threatens Gulf Coast",
@@ -309,9 +349,10 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 10,
+      "count": 11,
       "lessons": [
         "jH_C8UbT-eA.json",
+        "cKoPl6VV3p0.json",
         "QkjFrsyfkeg.json",
         "lNBAu4p_kBI.json",
         "LcbCB5EvOX8.json",
@@ -325,9 +366,10 @@
     },
     {
       "source": "CBS",
-      "count": 6,
+      "count": 7,
       "lessons": [
         "A_du2mhn4RI.json",
+        "CFD-NDbIBlI.json",
         "JnYTmO1SDSc.json",
         "dhxsGW7Tbiw.json",
         "wG45UuhF_S8.json",
@@ -337,9 +379,10 @@
     },
     {
       "source": "PBS",
-      "count": 8,
+      "count": 9,
       "lessons": [
         "6xTvyTunXIo.json",
+        "o_ZtmSgTXjQ.json",
         "vJZNxqi4pd8.json",
         "218gMy1KfyQ.json",
         "GuYpIWkg-ZM.json",
@@ -351,9 +394,10 @@
     },
     {
       "source": "ABC",
-      "count": 6,
+      "count": 7,
       "lessons": [
         "8SDteoXq19U.json",
+        "Dyit3kBu5Ns.json",
         "f9Ug1Mvb8B4.json",
         "27cHKDvpH4Q.json",
         "cgLoyMBUBq8.json",
