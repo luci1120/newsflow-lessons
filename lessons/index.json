@@ -1,10 +1,12 @@
 {
-  "updatedAt": "2026-10-09T13:00:24Z",
-  "count": 34,
+  "updatedAt": "2026-10-12T13:29:34Z",
+  "count": 40,
   "keepDays": null,
   "lessons": [
+    "f0PG6SX3eJk.json",
     "jH_C8UbT-eA.json",
     "cKoPl6VV3p0.json",
+    "3Rztf8ppVlE.json",
     "QkjFrsyfkeg.json",
     "lNBAu4p_kBI.json",
     "LcbCB5EvOX8.json",
@@ -14,6 +16,8 @@
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "UZhcTbrwcqM.json",
+    "Glj_HpziHJk.json",
     "A_du2mhn4RI.json",
     "CFD-NDbIBlI.json",
     "JnYTmO1SDSc.json",
@@ -21,6 +25,7 @@
     "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
+    "DVYPvv642Vw.json",
     "6xTvyTunXIo.json",
     "o_ZtmSgTXjQ.json",
     "vJZNxqi4pd8.json",
@@ -30,6 +35,7 @@
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
+    "ggRbknHHKOg.json",
     "8SDteoXq19U.json",
     "Dyit3kBu5Ns.json",
     "f9Ug1Mvb8B4.json",
@@ -39,6 +45,15 @@
     "S6_Q0fca7ag.json"
   ],
   "entries": [
+    {
+      "file": "f0PG6SX3eJk.json",
+      "videoId": "f0PG6SX3eJk",
+      "title": "CNN10 Encore: The Future of AVs— Self-Driving Cars Explained | October 12, 2026",
+      "source": "CNN10",
+      "durationSecs": 601,
+      "publishedAt": "2026-10-12",
+      "segments": 116
+    },
     {
       "file": "jH_C8UbT-eA.json",
       "videoId": "jH_C8UbT-eA",
@@ -55,6 +70,15 @@
       "source": "CNN10",
       "durationSecs": 628,
       "publishedAt": "2026-10-08",
+      "segments": 112
+    },
+    {
+      "file": "3Rztf8ppVlE.json",
+      "videoId": "3Rztf8ppVlE",
+      "title": "How the Chicago River went from \"great open sewer\" to swimming spot | October 7, 2026",
+      "source": "CNN10",
+      "durationSecs": 606,
+      "publishedAt": "2026-10-07",
       "segments": 112
     },
     {
@@ -139,6 +163,24 @@
       "segments": 97
     },
     {
+      "file": "UZhcTbrwcqM.json",
+      "videoId": "UZhcTbrwcqM",
+      "title": "Trump claims Russia and Ukraine reached an \"energy ceasefire.\" Zelenskyy says that's news to him.",
+      "source": "CBS",
+      "durationSecs": 217,
+      "publishedAt": "2026-10-12",
+      "segments": 37
+    },
+    {
+      "file": "Glj_HpziHJk.json",
+      "videoId": "Glj_HpziHJk",
+      "title": "Trump campaigns in Tennessee as Americans face high cost of living at grocery stores, gas pumps",
+      "source": "CBS",
+      "durationSecs": 116,
+      "publishedAt": "2026-10-11",
+      "segments": 21
+    },
+    {
       "file": "A_du2mhn4RI.json",
       "videoId": "A_du2mhn4RI",
       "title": "Mamdani, NYC officials give update on ICE shooting",
@@ -200,6 +242,15 @@
       "durationSecs": 238,
       "publishedAt": "2026-10-03",
       "segments": 46
+    },
+    {
+      "file": "DVYPvv642Vw.json",
+      "videoId": "DVYPvv642Vw",
+      "title": "PBS News Hour full episode, Oct. 9, 2026",
+      "source": "PBS",
+      "durationSecs": 3361,
+      "publishedAt": "2026-10-12",
+      "segments": 560
     },
     {
       "file": "6xTvyTunXIo.json",
@@ -283,6 +334,15 @@
       "segments": 97
     },
     {
+      "file": "ggRbknHHKOg.json",
+      "videoId": "ggRbknHHKOg",
+      "title": "Reactions to Trump’s agreement with Russia and calls for new leadership in Ukraine",
+      "source": "ABC",
+      "durationSecs": 170,
+      "publishedAt": "2026-10-12",
+      "segments": 29
+    },
+    {
       "file": "8SDteoXq19U.json",
       "videoId": "8SDteoXq19U",
       "title": "Hurricane Isaias strengthens to a Category 2 storm",
@@ -349,10 +409,12 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 11,
+      "count": 13,
       "lessons": [
+        "f0PG6SX3eJk.json",
         "jH_C8UbT-eA.json",
         "cKoPl6VV3p0.json",
+        "3Rztf8ppVlE.json",
         "QkjFrsyfkeg.json",
         "lNBAu4p_kBI.json",
         "LcbCB5EvOX8.json",
@@ -366,8 +428,10 @@
     },
     {
       "source": "CBS",
-      "count": 7,
+      "count": 9,
       "lessons": [
+        "UZhcTbrwcqM.json",
+        "Glj_HpziHJk.json",
         "A_du2mhn4RI.json",
         "CFD-NDbIBlI.json",
         "JnYTmO1SDSc.json",
@@ -379,8 +443,9 @@
     },
     {
       "source": "PBS",
-      "count": 9,
+      "count": 10,
       "lessons": [
+        "DVYPvv642Vw.json",
         "6xTvyTunXIo.json",
         "o_ZtmSgTXjQ.json",
         "vJZNxqi4pd8.json",
@@ -394,8 +459,9 @@
     },
     {
       "source": "ABC",
-      "count": 7,
+      "count": 8,
       "lessons": [
+        "ggRbknHHKOg.json",
         "8SDteoXq19U.json",
         "Dyit3kBu5Ns.json",
         "f9Ug1Mvb8B4.json",
