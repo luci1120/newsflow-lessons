@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-10-14T04:55:26Z",
-  "count": 44,
+  "updatedAt": "2026-10-14T13:01:55Z",
+  "count": 48,
   "keepDays": null,
   "lessons": [
     "7CfVGZkNKH4.json",
+    "2h6HoH9oeo4.json",
     "f0PG6SX3eJk.json",
     "jH_C8UbT-eA.json",
     "cKoPl6VV3p0.json",
@@ -17,6 +18,7 @@
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "KIP3Oa-7JiQ.json",
     "ZPBOqf96fG4.json",
     "UZhcTbrwcqM.json",
     "Glj_HpziHJk.json",
@@ -27,6 +29,7 @@
     "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
+    "4AH1tdAv-uQ.json",
     "h9zDIZKpyXc.json",
     "DVYPvv642Vw.json",
     "6xTvyTunXIo.json",
@@ -38,6 +41,7 @@
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
+    "862DygXjgBE.json",
     "vlq3lU0V5_E.json",
     "ggRbknHHKOg.json",
     "8SDteoXq19U.json",
@@ -57,6 +61,15 @@
       "durationSecs": 612,
       "publishedAt": "2026-10-14",
       "segments": 106
+    },
+    {
+      "file": "2h6HoH9oeo4.json",
+      "videoId": "2h6HoH9oeo4",
+      "title": "Queen of Thailand becomes first royal to solo pilot a fighter jet | October 13, 2026",
+      "source": "CNN10",
+      "durationSecs": 602,
+      "publishedAt": "2026-10-13",
+      "segments": 109
     },
     {
       "file": "f0PG6SX3eJk.json",
@@ -176,6 +189,15 @@
       "segments": 97
     },
     {
+      "file": "KIP3Oa-7JiQ.json",
+      "videoId": "KIP3Oa-7JiQ",
+      "title": "Medical experts break down Pope Leo XIV’s lung cancer diagnosis",
+      "source": "CBS",
+      "durationSecs": 546,
+      "publishedAt": "2026-10-14",
+      "segments": 90
+    },
+    {
       "file": "ZPBOqf96fG4.json",
       "videoId": "ZPBOqf96fG4",
       "title": "Trump issues pardons to 2 auto shop owners at Alaska rally",
@@ -264,6 +286,15 @@
       "durationSecs": 238,
       "publishedAt": "2026-10-03",
       "segments": 46
+    },
+    {
+      "file": "4AH1tdAv-uQ.json",
+      "videoId": "4AH1tdAv-uQ",
+      "title": "'Grandma Joy and Me' follows a grandmother and grandson's journey to every national park",
+      "source": "PBS",
+      "durationSecs": 543,
+      "publishedAt": "2026-10-14",
+      "segments": 93
     },
     {
       "file": "h9zDIZKpyXc.json",
@@ -365,6 +396,15 @@
       "segments": 97
     },
     {
+      "file": "862DygXjgBE.json",
+      "videoId": "862DygXjgBE",
+      "title": "600,000 without power in Ukraine as Russia launches 'massive' attack",
+      "source": "ABC",
+      "durationSecs": 145,
+      "publishedAt": "2026-10-14",
+      "segments": 25
+    },
+    {
       "file": "vlq3lU0V5_E.json",
       "videoId": "vlq3lU0V5_E",
       "title": "ABC News Live Prime: October 13, 2026",
@@ -449,9 +489,10 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 14,
+      "count": 15,
       "lessons": [
         "7CfVGZkNKH4.json",
+        "2h6HoH9oeo4.json",
         "f0PG6SX3eJk.json",
         "jH_C8UbT-eA.json",
         "cKoPl6VV3p0.json",
@@ -469,8 +510,9 @@
     },
     {
       "source": "CBS",
-      "count": 10,
+      "count": 11,
       "lessons": [
+        "KIP3Oa-7JiQ.json",
         "ZPBOqf96fG4.json",
         "UZhcTbrwcqM.json",
         "Glj_HpziHJk.json",
@@ -485,8 +527,9 @@
     },
     {
       "source": "PBS",
-      "count": 11,
+      "count": 12,
       "lessons": [
+        "4AH1tdAv-uQ.json",
         "h9zDIZKpyXc.json",
         "DVYPvv642Vw.json",
         "6xTvyTunXIo.json",
@@ -502,8 +545,9 @@
     },
     {
       "source": "ABC",
-      "count": 9,
+      "count": 10,
       "lessons": [
+        "862DygXjgBE.json",
         "vlq3lU0V5_E.json",
         "ggRbknHHKOg.json",
         "8SDteoXq19U.json",
