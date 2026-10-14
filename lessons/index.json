@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-10-12T13:29:34Z",
-  "count": 40,
+  "updatedAt": "2026-10-14T04:55:26Z",
+  "count": 44,
   "keepDays": null,
   "lessons": [
+    "7CfVGZkNKH4.json",
     "f0PG6SX3eJk.json",
     "jH_C8UbT-eA.json",
     "cKoPl6VV3p0.json",
@@ -16,6 +17,7 @@
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "ZPBOqf96fG4.json",
     "UZhcTbrwcqM.json",
     "Glj_HpziHJk.json",
     "A_du2mhn4RI.json",
@@ -25,6 +27,7 @@
     "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
+    "h9zDIZKpyXc.json",
     "DVYPvv642Vw.json",
     "6xTvyTunXIo.json",
     "o_ZtmSgTXjQ.json",
@@ -35,6 +38,7 @@
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
+    "vlq3lU0V5_E.json",
     "ggRbknHHKOg.json",
     "8SDteoXq19U.json",
     "Dyit3kBu5Ns.json",
@@ -45,6 +49,15 @@
     "S6_Q0fca7ag.json"
   ],
   "entries": [
+    {
+      "file": "7CfVGZkNKH4.json",
+      "videoId": "7CfVGZkNKH4",
+      "title": "How scientists are using acorns to predict Lyme disease hot spots | October 14, 2026",
+      "source": "CNN10",
+      "durationSecs": 612,
+      "publishedAt": "2026-10-14",
+      "segments": 106
+    },
     {
       "file": "f0PG6SX3eJk.json",
       "videoId": "f0PG6SX3eJk",
@@ -163,6 +176,15 @@
       "segments": 97
     },
     {
+      "file": "ZPBOqf96fG4.json",
+      "videoId": "ZPBOqf96fG4",
+      "title": "Trump issues pardons to 2 auto shop owners at Alaska rally",
+      "source": "CBS",
+      "durationSecs": 241,
+      "publishedAt": "2026-10-14",
+      "segments": 33
+    },
+    {
       "file": "UZhcTbrwcqM.json",
       "videoId": "UZhcTbrwcqM",
       "title": "Trump claims Russia and Ukraine reached an \"energy ceasefire.\" Zelenskyy says that's news to him.",
@@ -242,6 +264,15 @@
       "durationSecs": 238,
       "publishedAt": "2026-10-03",
       "segments": 46
+    },
+    {
+      "file": "h9zDIZKpyXc.json",
+      "videoId": "h9zDIZKpyXc",
+      "title": "PBS News Hour full episode, Oct. 13, 2026",
+      "source": "PBS",
+      "durationSecs": 3403,
+      "publishedAt": "2026-10-14",
+      "segments": 532
     },
     {
       "file": "DVYPvv642Vw.json",
@@ -334,6 +365,15 @@
       "segments": 97
     },
     {
+      "file": "vlq3lU0V5_E.json",
+      "videoId": "vlq3lU0V5_E",
+      "title": "ABC News Live Prime: October 13, 2026",
+      "source": "ABC",
+      "durationSecs": 2774,
+      "publishedAt": "2026-10-13",
+      "segments": 428
+    },
+    {
       "file": "ggRbknHHKOg.json",
       "videoId": "ggRbknHHKOg",
       "title": "Reactions to Trump’s agreement with Russia and calls for new leadership in Ukraine",
@@ -409,8 +449,9 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 13,
+      "count": 14,
       "lessons": [
+        "7CfVGZkNKH4.json",
         "f0PG6SX3eJk.json",
         "jH_C8UbT-eA.json",
         "cKoPl6VV3p0.json",
@@ -428,8 +469,9 @@
     },
     {
       "source": "CBS",
-      "count": 9,
+      "count": 10,
       "lessons": [
+        "ZPBOqf96fG4.json",
         "UZhcTbrwcqM.json",
         "Glj_HpziHJk.json",
         "A_du2mhn4RI.json",
@@ -443,8 +485,9 @@
     },
     {
       "source": "PBS",
-      "count": 10,
+      "count": 11,
       "lessons": [
+        "h9zDIZKpyXc.json",
         "DVYPvv642Vw.json",
         "6xTvyTunXIo.json",
         "o_ZtmSgTXjQ.json",
@@ -459,8 +502,9 @@
     },
     {
       "source": "ABC",
-      "count": 8,
+      "count": 9,
       "lessons": [
+        "vlq3lU0V5_E.json",
         "ggRbknHHKOg.json",
         "8SDteoXq19U.json",
         "Dyit3kBu5Ns.json",
