@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-10-14T13:01:55Z",
-  "count": 48,
+  "updatedAt": "2026-10-16T03:08:26Z",
+  "count": 52,
   "keepDays": null,
   "lessons": [
+    "b52A9dTozYA.json",
     "7CfVGZkNKH4.json",
     "2h6HoH9oeo4.json",
     "f0PG6SX3eJk.json",
@@ -18,6 +19,7 @@
     "K7IHbN5MMb8.json",
     "lbcu9BUmAhk.json",
     "KsoZVXiqPgE.json",
+    "xYQvz7b7ReM.json",
     "KIP3Oa-7JiQ.json",
     "ZPBOqf96fG4.json",
     "UZhcTbrwcqM.json",
@@ -29,6 +31,7 @@
     "wG45UuhF_S8.json",
     "j4Y58zRevb0.json",
     "-Hzuhz0ffoY.json",
+    "1_aIDEAqqbU.json",
     "4AH1tdAv-uQ.json",
     "h9zDIZKpyXc.json",
     "DVYPvv642Vw.json",
@@ -41,6 +44,7 @@
     "JZi_N5elETs.json",
     "a39RzsEcbdI.json",
     "yF1rzzxe2vc.json",
+    "4-3yMoQ3rwQ.json",
     "862DygXjgBE.json",
     "vlq3lU0V5_E.json",
     "ggRbknHHKOg.json",
@@ -53,6 +57,15 @@
     "S6_Q0fca7ag.json"
   ],
   "entries": [
+    {
+      "file": "b52A9dTozYA.json",
+      "videoId": "b52A9dTozYA",
+      "title": "This city is one of the world’s most important A.I. hubs | October 16, 2026",
+      "source": "CNN10",
+      "durationSecs": 534,
+      "publishedAt": "2026-10-16",
+      "segments": 101
+    },
     {
       "file": "7CfVGZkNKH4.json",
       "videoId": "7CfVGZkNKH4",
@@ -189,6 +202,15 @@
       "segments": 97
     },
     {
+      "file": "xYQvz7b7ReM.json",
+      "videoId": "xYQvz7b7ReM",
+      "title": "Oregon police give details on elementary school shooting",
+      "source": "CBS",
+      "durationSecs": 1564,
+      "publishedAt": "2026-10-16",
+      "segments": 245
+    },
+    {
       "file": "KIP3Oa-7JiQ.json",
       "videoId": "KIP3Oa-7JiQ",
       "title": "Medical experts break down Pope Leo XIV’s lung cancer diagnosis",
@@ -286,6 +308,15 @@
       "durationSecs": 238,
       "publishedAt": "2026-10-03",
       "segments": 46
+    },
+    {
+      "file": "1_aIDEAqqbU.json",
+      "videoId": "1_aIDEAqqbU",
+      "title": "PBS News Hour full episode, Oct. 15, 2026",
+      "source": "PBS",
+      "durationSecs": 3405,
+      "publishedAt": "2026-10-16",
+      "segments": 566
     },
     {
       "file": "4AH1tdAv-uQ.json",
@@ -396,6 +427,15 @@
       "segments": 97
     },
     {
+      "file": "4-3yMoQ3rwQ.json",
+      "videoId": "4-3yMoQ3rwQ",
+      "title": "Springfield, Ohio, Haitian community members talk fears after end of TPS",
+      "source": "ABC",
+      "durationSecs": 511,
+      "publishedAt": "2026-10-16",
+      "segments": 76
+    },
+    {
       "file": "862DygXjgBE.json",
       "videoId": "862DygXjgBE",
       "title": "600,000 without power in Ukraine as Russia launches 'massive' attack",
@@ -489,8 +529,9 @@
   "groups": [
     {
       "source": "CNN10",
-      "count": 15,
+      "count": 16,
       "lessons": [
+        "b52A9dTozYA.json",
         "7CfVGZkNKH4.json",
         "2h6HoH9oeo4.json",
         "f0PG6SX3eJk.json",
@@ -510,8 +551,9 @@
     },
     {
       "source": "CBS",
-      "count": 11,
+      "count": 12,
       "lessons": [
+        "xYQvz7b7ReM.json",
         "KIP3Oa-7JiQ.json",
         "ZPBOqf96fG4.json",
         "UZhcTbrwcqM.json",
@@ -527,8 +569,9 @@
     },
     {
       "source": "PBS",
-      "count": 12,
+      "count": 13,
       "lessons": [
+        "1_aIDEAqqbU.json",
         "4AH1tdAv-uQ.json",
         "h9zDIZKpyXc.json",
         "DVYPvv642Vw.json",
@@ -545,8 +588,9 @@
     },
     {
       "source": "ABC",
-      "count": 10,
+      "count": 11,
       "lessons": [
+        "4-3yMoQ3rwQ.json",
         "862DygXjgBE.json",
         "vlq3lU0V5_E.json",
         "ggRbknHHKOg.json",

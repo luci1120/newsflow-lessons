@@ -1,0 +1,5131 @@
+{
+  "videoId": "b52A9dTozYA",
+  "title": "This city is one of the world’s most important A.I. hubs | October 16, 2026",
+  "source": "CNN10",
+  "durationSecs": 534,
+  "publishedAt": "2026-10-16",
+  "segments": [
+    {
+      "index": 0,
+      "startMs": 11220,
+      "endMs": 12080,
+      "transcript": "Hello, everyone.",
+      "solution": [
+        [
+          "Hello,"
+        ],
+        [
+          "everyone."
+        ]
+      ]
+    },
+    {
+      "index": 1,
+      "startMs": 12380,
+      "endMs": 15140,
+      "transcript": "Welcome to a fresh, new episode of CNN 10.",
+      "solution": [
+        [
+          "Welcome"
+        ],
+        [
+          "to"
+        ],
+        [
+          "a"
+        ],
+        [
+          "fresh,"
+        ],
+        [
+          "new"
+        ],
+        [
+          "episode"
+        ],
+        [
+          "of"
+        ],
+        [
+          "CNN"
+        ],
+        [
+          "10."
+        ]
+      ]
+    },
+    {
+      "index": 2,
+      "startMs": 15560,
+      "endMs": 17320,
+      "transcript": "I'm Claire Duffy in for Coy Wire.",
+      "solution": [
+        [
+          "I'm"
+        ],
+        [
+          "Claire"
+        ],
+        [
+          "Duffy"
+        ],
+        [
+          "in"
+        ],
+        [
+          "for"
+        ],
+        [
+          "Coy"
+        ],
+        [
+          "Wire."
+        ]
+      ]
+    },
+    {
+      "index": 3,
+      "startMs": 17700,
+      "endMs": 25220,
+      "transcript": "I'm a longtime fan of the show, first time host, and I am so excited to be with you today, Friday, October 16th.",
+      "solution": [
+        [
+          "I'm"
+        ],
+        [
+          "a"
+        ],
+        [
+          "longtime"
+        ],
+        [
+          "fan"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "show,"
+        ],
+        [
+          "first"
+        ],
+        [
+          "time"
+        ],
+        [
+          "host,"
+        ],
+        [
+          "and"
+        ],
+        [
+          "I"
+        ],
+        [
+          "am"
+        ],
+        [
+          "so"
+        ],
+        [
+          "excited"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "with"
+        ],
+        [
+          "you"
+        ],
+        [
+          "today,"
+        ],
+        [
+          "Friday,"
+        ],
+        [
+          "October"
+        ],
+        [
+          "16th."
+        ]
+      ]
+    },
+    {
+      "index": 4,
+      "startMs": 25440,
+      "endMs": 29500,
+      "transcript": "We've got a lot of interesting stories to tell you about today, so let's get to it.",
+      "solution": [
+        [
+          "We've"
+        ],
+        [
+          "got"
+        ],
+        [
+          "a"
+        ],
+        [
+          "lot"
+        ],
+        [
+          "of"
+        ],
+        [
+          "interesting"
+        ],
+        [
+          "stories"
+        ],
+        [
+          "to"
+        ],
+        [
+          "tell"
+        ],
+        [
+          "you"
+        ],
+        [
+          "about"
+        ],
+        [
+          "today,"
+        ],
+        [
+          "so"
+        ],
+        [
+          "let's"
+        ],
+        [
+          "get"
+        ],
+        [
+          "to"
+        ],
+        [
+          "it."
+        ]
+      ]
+    },
+    {
+      "index": 5,
+      "startMs": 29780,
+      "endMs": 36380,
+      "transcript": "We begin in France, where student-led protests aimed at reforming the education system are now in their fourth week.",
+      "solution": [
+        [
+          "We"
+        ],
+        [
+          "begin"
+        ],
+        [
+          "in"
+        ],
+        [
+          "France,"
+        ],
+        [
+          "where"
+        ],
+        [
+          "student-led"
+        ],
+        [
+          "protests"
+        ],
+        [
+          "aimed"
+        ],
+        [
+          "at"
+        ],
+        [
+          "reforming"
+        ],
+        [
+          "the"
+        ],
+        [
+          "education"
+        ],
+        [
+          "system"
+        ],
+        [
+          "are"
+        ],
+        [
+          "now"
+        ],
+        [
+          "in"
+        ],
+        [
+          "their"
+        ],
+        [
+          "fourth"
+        ],
+        [
+          "week."
+        ]
+      ]
+    },
+    {
+      "index": 6,
+      "startMs": 37000,
+      "endMs": 43540,
+      "transcript": "Students are pushing for more teachers, smaller class sizes, and more funding for what they describe as rundown buildings.",
+      "solution": [
+        [
+          "Students"
+        ],
+        [
+          "are"
+        ],
+        [
+          "pushing"
+        ],
+        [
+          "for"
+        ],
+        [
+          "more"
+        ],
+        [
+          "teachers,"
+        ],
+        [
+          "smaller"
+        ],
+        [
+          "class"
+        ],
+        [
+          "sizes,"
+        ],
+        [
+          "and"
+        ],
+        [
+          "more"
+        ],
+        [
+          "funding"
+        ],
+        [
+          "for"
+        ],
+        [
+          "what"
+        ],
+        [
+          "they"
+        ],
+        [
+          "describe"
+        ],
+        [
+          "as"
+        ],
+        [
+          "rundown"
+        ],
+        [
+          "buildings."
+        ]
+      ]
+    },
+    {
+      "index": 7,
+      "startMs": 43940,
+      "endMs": 50120,
+      "transcript": "One month in, the demonstrations have grown into a nationwide movement that's drawn hundreds of thousands of supporters.",
+      "solution": [
+        [
+          "One"
+        ],
+        [
+          "month"
+        ],
+        [
+          "in,"
+        ],
+        [
+          "the"
+        ],
+        [
+          "demonstrations"
+        ],
+        [
+          "have"
+        ],
+        [
+          "grown"
+        ],
+        [
+          "into"
+        ],
+        [
+          "a"
+        ],
+        [
+          "nationwide"
+        ],
+        [
+          "movement"
+        ],
+        [
+          "that's"
+        ],
+        [
+          "drawn"
+        ],
+        [
+          "hundreds"
+        ],
+        [
+          "of"
+        ],
+        [
+          "thousands"
+        ],
+        [
+          "of"
+        ],
+        [
+          "supporters."
+        ]
+      ]
+    },
+    {
+      "index": 8,
+      "startMs": 50720,
+      "endMs": 53880,
+      "transcript": "Our Saskia Van Dorn is on the ground in Paris with an update.",
+      "solution": [
+        [
+          "Our"
+        ],
+        [
+          "Saskia"
+        ],
+        [
+          "Van"
+        ],
+        [
+          "Dorn"
+        ],
+        [
+          "is"
+        ],
+        [
+          "on"
+        ],
+        [
+          "the"
+        ],
+        [
+          "ground"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Paris"
+        ],
+        [
+          "with"
+        ],
+        [
+          "an"
+        ],
+        [
+          "update."
+        ]
+      ]
+    },
+    {
+      "index": 9,
+      "startMs": 54840,
+      "endMs": 60740,
+      "transcript": "We're in the fourth week of this high school student protest and the momentum is still very much there.",
+      "solution": [
+        [
+          "We're"
+        ],
+        [
+          "in"
+        ],
+        [
+          "the"
+        ],
+        [
+          "fourth"
+        ],
+        [
+          "week"
+        ],
+        [
+          "of"
+        ],
+        [
+          "this"
+        ],
+        [
+          "high"
+        ],
+        [
+          "school"
+        ],
+        [
+          "student"
+        ],
+        [
+          "protest"
+        ],
+        [
+          "and"
+        ],
+        [
+          "the"
+        ],
+        [
+          "momentum"
+        ],
+        [
+          "is"
+        ],
+        [
+          "still"
+        ],
+        [
+          "very"
+        ],
+        [
+          "much"
+        ],
+        [
+          "there."
+        ]
+      ]
+    },
+    {
+      "index": 10,
+      "startMs": 60860,
+      "endMs": 65300,
+      "transcript": "We've been speaking with students all day who say their list of demands has not changed.",
+      "solution": [
+        [
+          "We've"
+        ],
+        [
+          "been"
+        ],
+        [
+          "speaking"
+        ],
+        [
+          "with"
+        ],
+        [
+          "students"
+        ],
+        [
+          "all"
+        ],
+        [
+          "day"
+        ],
+        [
+          "who"
+        ],
+        [
+          "say"
+        ],
+        [
+          "their"
+        ],
+        [
+          "list"
+        ],
+        [
+          "of"
+        ],
+        [
+          "demands"
+        ],
+        [
+          "has"
+        ],
+        [
+          "not"
+        ],
+        [
+          "changed."
+        ]
+      ]
+    },
+    {
+      "index": 11,
+      "startMs": 65700,
+      "endMs": 71400,
+      "transcript": "They want more teachers, they want fewer students in class and they want billions more in education funding.",
+      "solution": [
+        [
+          "They"
+        ],
+        [
+          "want"
+        ],
+        [
+          "more"
+        ],
+        [
+          "teachers,"
+        ],
+        [
+          "they"
+        ],
+        [
+          "want"
+        ],
+        [
+          "fewer"
+        ],
+        [
+          "students"
+        ],
+        [
+          "in"
+        ],
+        [
+          "class"
+        ],
+        [
+          "and"
+        ],
+        [
+          "they"
+        ],
+        [
+          "want"
+        ],
+        [
+          "billions"
+        ],
+        [
+          "more"
+        ],
+        [
+          "in"
+        ],
+        [
+          "education"
+        ],
+        [
+          "funding."
+        ]
+      ]
+    },
+    {
+      "index": 12,
+      "startMs": 71640,
+      "endMs": 75600,
+      "transcript": "They say that the concessions given by the government just don't go far enough.",
+      "solution": [
+        [
+          "They"
+        ],
+        [
+          "say"
+        ],
+        [
+          "that"
+        ],
+        [
+          "the"
+        ],
+        [
+          "concessions"
+        ],
+        [
+          "given"
+        ],
+        [
+          "by"
+        ],
+        [
+          "the"
+        ],
+        [
+          "government"
+        ],
+        [
+          "just"
+        ],
+        [
+          "don't"
+        ],
+        [
+          "go"
+        ],
+        [
+          "far"
+        ],
+        [
+          "enough."
+        ]
+      ]
+    },
+    {
+      "index": 13,
+      "startMs": 76200,
+      "endMs": 82080,
+      "transcript": "And another major issue that has unfolded during these protests is the level of violence that we have witnessed.",
+      "solution": [
+        [
+          "And"
+        ],
+        [
+          "another"
+        ],
+        [
+          "major"
+        ],
+        [
+          "issue"
+        ],
+        [
+          "that"
+        ],
+        [
+          "has"
+        ],
+        [
+          "unfolded"
+        ],
+        [
+          "during"
+        ],
+        [
+          "these"
+        ],
+        [
+          "protests"
+        ],
+        [
+          "is"
+        ],
+        [
+          "the"
+        ],
+        [
+          "level"
+        ],
+        [
+          "of"
+        ],
+        [
+          "violence"
+        ],
+        [
+          "that"
+        ],
+        [
+          "we"
+        ],
+        [
+          "have"
+        ],
+        [
+          "witnessed."
+        ]
+      ]
+    },
+    {
+      "index": 14,
+      "startMs": 82540,
+      "endMs": 91460,
+      "transcript": "These harrowing videos of teenagers who have been injured and all of these videos are circulating online and they're galvanizing support for the movement.",
+      "solution": [
+        [
+          "These"
+        ],
+        [
+          "harrowing"
+        ],
+        [
+          "videos"
+        ],
+        [
+          "of"
+        ],
+        [
+          "teenagers"
+        ],
+        [
+          "who"
+        ],
+        [
+          "have"
+        ],
+        [
+          "been"
+        ],
+        [
+          "injured"
+        ],
+        [
+          "and"
+        ],
+        [
+          "all"
+        ],
+        [
+          "of"
+        ],
+        [
+          "these"
+        ],
+        [
+          "videos"
+        ],
+        [
+          "are"
+        ],
+        [
+          "circulating"
+        ],
+        [
+          "online"
+        ],
+        [
+          "and"
+        ],
+        [
+          "they're"
+        ],
+        [
+          "galvanizing"
+        ],
+        [
+          "support"
+        ],
+        [
+          "for"
+        ],
+        [
+          "the"
+        ],
+        [
+          "movement."
+        ]
+      ]
+    },
+    {
+      "index": 15,
+      "startMs": 91960,
+      "endMs": 98720,
+      "transcript": "Students are saying that they're going to show up again on Saturday, that they're going to be joined by yellow vests, by taxi unions,",
+      "solution": [
+        [
+          "Students"
+        ],
+        [
+          "are"
+        ],
+        [
+          "saying"
+        ],
+        [
+          "that"
+        ],
+        [
+          "they're"
+        ],
+        [
+          "going"
+        ],
+        [
+          "to"
+        ],
+        [
+          "show"
+        ],
+        [
+          "up"
+        ],
+        [
+          "again"
+        ],
+        [
+          "on"
+        ],
+        [
+          "Saturday,"
+        ],
+        [
+          "that"
+        ],
+        [
+          "they're"
+        ],
+        [
+          "going"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "joined"
+        ],
+        [
+          "by"
+        ],
+        [
+          "yellow"
+        ],
+        [
+          "vests,"
+        ],
+        [
+          "by"
+        ],
+        [
+          "taxi"
+        ],
+        [
+          "unions,"
+        ]
+      ]
+    },
+    {
+      "index": 16,
+      "startMs": 99320,
+      "endMs": 102480,
+      "transcript": "So they expect Saturday to be even bigger than today.",
+      "solution": [
+        [
+          "So"
+        ],
+        [
+          "they"
+        ],
+        [
+          "expect"
+        ],
+        [
+          "Saturday"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "even"
+        ],
+        [
+          "bigger"
+        ],
+        [
+          "than"
+        ],
+        [
+          "today."
+        ]
+      ]
+    },
+    {
+      "index": 17,
+      "startMs": 103540,
+      "endMs": 109220,
+      "transcript": "One of the biggest names in artificial intelligence is facing a new legal challenge over alleged safety risks.",
+      "solution": [
+        [
+          "One"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "biggest"
+        ],
+        [
+          "names"
+        ],
+        [
+          "in"
+        ],
+        [
+          "artificial"
+        ],
+        [
+          "intelligence"
+        ],
+        [
+          "is"
+        ],
+        [
+          "facing"
+        ],
+        [
+          "a"
+        ],
+        [
+          "new"
+        ],
+        [
+          "legal"
+        ],
+        [
+          "challenge"
+        ],
+        [
+          "over"
+        ],
+        [
+          "alleged"
+        ],
+        [
+          "safety"
+        ],
+        [
+          "risks."
+        ]
+      ]
+    },
+    {
+      "index": 18,
+      "startMs": 109700,
+      "endMs": 121760,
+      "transcript": "Eight different states have filed consumer protection lawsuits against open AI alleging the company has deceived parents and hurt children by marketing their flagship chatbot chattpt as a safe product for young",
+      "solution": [
+        [
+          "Eight"
+        ],
+        [
+          "different"
+        ],
+        [
+          "states"
+        ],
+        [
+          "have"
+        ],
+        [
+          "filed"
+        ],
+        [
+          "consumer"
+        ],
+        [
+          "protection"
+        ],
+        [
+          "lawsuits"
+        ],
+        [
+          "against"
+        ],
+        [
+          "open"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "alleging"
+        ],
+        [
+          "the"
+        ],
+        [
+          "company"
+        ],
+        [
+          "has"
+        ],
+        [
+          "deceived"
+        ],
+        [
+          "parents"
+        ],
+        [
+          "and"
+        ],
+        [
+          "hurt"
+        ],
+        [
+          "children"
+        ],
+        [
+          "by"
+        ],
+        [
+          "marketing"
+        ],
+        [
+          "their"
+        ],
+        [
+          "flagship"
+        ],
+        [
+          "chatbot"
+        ],
+        [
+          "chattpt"
+        ],
+        [
+          "as"
+        ],
+        [
+          "a"
+        ],
+        [
+          "safe"
+        ],
+        [
+          "product"
+        ],
+        [
+          "for"
+        ],
+        [
+          "young"
+        ]
+      ]
+    },
+    {
+      "index": 19,
+      "startMs": 121760,
+      "endMs": 122160,
+      "transcript": "People.",
+      "solution": [
+        [
+          "People."
+        ]
+      ]
+    },
+    {
+      "index": 20,
+      "startMs": 122560,
+      "endMs": 129020,
+      "transcript": "They alleged the chatbots quote overly agreeable design makes it dangerous to vulnerable users like children.",
+      "solution": [
+        [
+          "They"
+        ],
+        [
+          "alleged"
+        ],
+        [
+          "the"
+        ],
+        [
+          "chatbots"
+        ],
+        [
+          "quote"
+        ],
+        [
+          "overly"
+        ],
+        [
+          "agreeable"
+        ],
+        [
+          "design"
+        ],
+        [
+          "makes"
+        ],
+        [
+          "it"
+        ],
+        [
+          "dangerous"
+        ],
+        [
+          "to"
+        ],
+        [
+          "vulnerable"
+        ],
+        [
+          "users"
+        ],
+        [
+          "like"
+        ],
+        [
+          "children."
+        ]
+      ]
+    },
+    {
+      "index": 21,
+      "startMs": 129660,
+      "endMs": 135320,
+      "transcript": "The states are seeking financial penalties from OpenAI, along with court-ordered safeguards to be added to the platform.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "states"
+        ],
+        [
+          "are"
+        ],
+        [
+          "seeking"
+        ],
+        [
+          "financial"
+        ],
+        [
+          "penalties"
+        ],
+        [
+          "from"
+        ],
+        [
+          "OpenAI,"
+        ],
+        [
+          "along"
+        ],
+        [
+          "with"
+        ],
+        [
+          "court-ordered"
+        ],
+        [
+          "safeguards"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "added"
+        ],
+        [
+          "to"
+        ],
+        [
+          "the"
+        ],
+        [
+          "platform."
+        ]
+      ]
+    },
+    {
+      "index": 22,
+      "startMs": 135920,
+      "endMs": 146400,
+      "transcript": "In response, OpenAI has pointed to its extensive investments in safety features such as parental controls and says it's willing to work with the states on safety initiatives for the entire industry.",
+      "solution": [
+        [
+          "In"
+        ],
+        [
+          "response,"
+        ],
+        [
+          "OpenAI"
+        ],
+        [
+          "has"
+        ],
+        [
+          "pointed"
+        ],
+        [
+          "to"
+        ],
+        [
+          "its"
+        ],
+        [
+          "extensive"
+        ],
+        [
+          "investments"
+        ],
+        [
+          "in"
+        ],
+        [
+          "safety"
+        ],
+        [
+          "features"
+        ],
+        [
+          "such"
+        ],
+        [
+          "as"
+        ],
+        [
+          "parental"
+        ],
+        [
+          "controls"
+        ],
+        [
+          "and"
+        ],
+        [
+          "says"
+        ],
+        [
+          "it's"
+        ],
+        [
+          "willing"
+        ],
+        [
+          "to"
+        ],
+        [
+          "work"
+        ],
+        [
+          "with"
+        ],
+        [
+          "the"
+        ],
+        [
+          "states"
+        ],
+        [
+          "on"
+        ],
+        [
+          "safety"
+        ],
+        [
+          "initiatives"
+        ],
+        [
+          "for"
+        ],
+        [
+          "the"
+        ],
+        [
+          "entire"
+        ],
+        [
+          "industry."
+        ]
+      ]
+    },
+    {
+      "index": 23,
+      "startMs": 146760,
+      "endMs": 156980,
+      "transcript": "The company also responded to the lawsuit's concerns over recent incidents in which AI models went rogue during training and says it's working to enhance safety features on that front as well.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "company"
+        ],
+        [
+          "also"
+        ],
+        [
+          "responded"
+        ],
+        [
+          "to"
+        ],
+        [
+          "the"
+        ],
+        [
+          "lawsuit's"
+        ],
+        [
+          "concerns"
+        ],
+        [
+          "over"
+        ],
+        [
+          "recent"
+        ],
+        [
+          "incidents"
+        ],
+        [
+          "in"
+        ],
+        [
+          "which"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "models"
+        ],
+        [
+          "went"
+        ],
+        [
+          "rogue"
+        ],
+        [
+          "during"
+        ],
+        [
+          "training"
+        ],
+        [
+          "and"
+        ],
+        [
+          "says"
+        ],
+        [
+          "it's"
+        ],
+        [
+          "working"
+        ],
+        [
+          "to"
+        ],
+        [
+          "enhance"
+        ],
+        [
+          "safety"
+        ],
+        [
+          "features"
+        ],
+        [
+          "on"
+        ],
+        [
+          "that"
+        ],
+        [
+          "front"
+        ],
+        [
+          "as"
+        ],
+        [
+          "well."
+        ]
+      ]
+    },
+    {
+      "index": 24,
+      "startMs": 158260,
+      "endMs": 160540,
+      "transcript": "It's time for 10-second trivia.",
+      "solution": [
+        [
+          "It's"
+        ],
+        [
+          "time"
+        ],
+        [
+          "for"
+        ],
+        [
+          "10-second"
+        ],
+        [
+          "trivia."
+        ]
+      ]
+    },
+    {
+      "index": 25,
+      "startMs": 160940,
+      "endMs": 163220,
+      "transcript": "Which of the following was invented in Canada?",
+      "solution": [
+        [
+          "Which"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "following"
+        ],
+        [
+          "was"
+        ],
+        [
+          "invented"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Canada?"
+        ]
+      ]
+    },
+    {
+      "index": 26,
+      "startMs": 163860,
+      "endMs": 167620,
+      "transcript": "The walkie-talkie, blue jeans, the zipper, or the light bulb?",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "walkie-talkie,"
+        ],
+        [
+          "blue"
+        ],
+        [
+          "jeans,"
+        ],
+        [
+          "the"
+        ],
+        [
+          "zipper,"
+        ],
+        [
+          "or"
+        ],
+        [
+          "the"
+        ],
+        [
+          "light"
+        ],
+        [
+          "bulb?"
+        ]
+      ]
+    },
+    {
+      "index": 27,
+      "startMs": 172390,
+      "endMs": 175350,
+      "transcript": "If you said the walkie-talkie, you are an overachiever.",
+      "solution": [
+        [
+          "If"
+        ],
+        [
+          "you"
+        ],
+        [
+          "said"
+        ],
+        [
+          "the"
+        ],
+        [
+          "walkie-talkie,"
+        ],
+        [
+          "you"
+        ],
+        [
+          "are"
+        ],
+        [
+          "an"
+        ],
+        [
+          "overachiever."
+        ]
+      ]
+    },
+    {
+      "index": 28,
+      "startMs": 175770,
+      "endMs": 181970,
+      "transcript": "In 1937, Canadian engineer Donald Hings wanted to help people communicate while working in remote areas.",
+      "solution": [
+        [
+          "In"
+        ],
+        [
+          "1937,"
+        ],
+        [
+          "Canadian"
+        ],
+        [
+          "engineer"
+        ],
+        [
+          "Donald"
+        ],
+        [
+          "Hings"
+        ],
+        [
+          "wanted"
+        ],
+        [
+          "to"
+        ],
+        [
+          "help"
+        ],
+        [
+          "people"
+        ],
+        [
+          "communicate"
+        ],
+        [
+          "while"
+        ],
+        [
+          "working"
+        ],
+        [
+          "in"
+        ],
+        [
+          "remote"
+        ],
+        [
+          "areas."
+        ]
+      ]
+    },
+    {
+      "index": 29,
+      "startMs": 182430,
+      "endMs": 186310,
+      "transcript": "During World War II, they became a game changer for military communication.",
+      "solution": [
+        [
+          "During"
+        ],
+        [
+          "World"
+        ],
+        [
+          "War"
+        ],
+        [
+          "II,"
+        ],
+        [
+          "they"
+        ],
+        [
+          "became"
+        ],
+        [
+          "a"
+        ],
+        [
+          "game"
+        ],
+        [
+          "changer"
+        ],
+        [
+          "for"
+        ],
+        [
+          "military"
+        ],
+        [
+          "communication."
+        ]
+      ]
+    },
+    {
+      "index": 30,
+      "startMs": 187070,
+      "endMs": 192490,
+      "transcript": "Canada is emerging as a new leader in a very different type of communication in recent years.",
+      "solution": [
+        [
+          "Canada"
+        ],
+        [
+          "is"
+        ],
+        [
+          "emerging"
+        ],
+        [
+          "as"
+        ],
+        [
+          "a"
+        ],
+        [
+          "new"
+        ],
+        [
+          "leader"
+        ],
+        [
+          "in"
+        ],
+        [
+          "a"
+        ],
+        [
+          "very"
+        ],
+        [
+          "different"
+        ],
+        [
+          "type"
+        ],
+        [
+          "of"
+        ],
+        [
+          "communication"
+        ],
+        [
+          "in"
+        ],
+        [
+          "recent"
+        ],
+        [
+          "years."
+        ]
+      ]
+    },
+    {
+      "index": 31,
+      "startMs": 193090,
+      "endMs": 198750,
+      "transcript": "Some of the tech startups that usually take root in California's Silicon Valley are instead choosing Toronto.",
+      "solution": [
+        [
+          "Some"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "tech"
+        ],
+        [
+          "startups"
+        ],
+        [
+          "that"
+        ],
+        [
+          "usually"
+        ],
+        [
+          "take"
+        ],
+        [
+          "root"
+        ],
+        [
+          "in"
+        ],
+        [
+          "California's"
+        ],
+        [
+          "Silicon"
+        ],
+        [
+          "Valley"
+        ],
+        [
+          "are"
+        ],
+        [
+          "instead"
+        ],
+        [
+          "choosing"
+        ],
+        [
+          "Toronto."
+        ]
+      ]
+    },
+    {
+      "index": 32,
+      "startMs": 199410,
+      "endMs": 211730,
+      "transcript": "The vibrant Canadian city has become home to a thriving artificial intelligence ecosystem, and I had the chance to visit some of the brightest minds and AI to learn why Toronto is the perfect place for emerging tech.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "vibrant"
+        ],
+        [
+          "Canadian"
+        ],
+        [
+          "city"
+        ],
+        [
+          "has"
+        ],
+        [
+          "become"
+        ],
+        [
+          "home"
+        ],
+        [
+          "to"
+        ],
+        [
+          "a"
+        ],
+        [
+          "thriving"
+        ],
+        [
+          "artificial"
+        ],
+        [
+          "intelligence"
+        ],
+        [
+          "ecosystem,"
+        ],
+        [
+          "and"
+        ],
+        [
+          "I"
+        ],
+        [
+          "had"
+        ],
+        [
+          "the"
+        ],
+        [
+          "chance"
+        ],
+        [
+          "to"
+        ],
+        [
+          "visit"
+        ],
+        [
+          "some"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "brightest"
+        ],
+        [
+          "minds"
+        ],
+        [
+          "and"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "to"
+        ],
+        [
+          "learn"
+        ],
+        [
+          "why"
+        ],
+        [
+          "Toronto"
+        ],
+        [
+          "is"
+        ],
+        [
+          "the"
+        ],
+        [
+          "perfect"
+        ],
+        [
+          "place"
+        ],
+        [
+          "for"
+        ],
+        [
+          "emerging"
+        ],
+        [
+          "tech."
+        ]
+      ]
+    },
+    {
+      "index": 33,
+      "startMs": 212870,
+      "endMs": 216370,
+      "transcript": "We really don't know yet how to make AI safe or whether we really can.",
+      "solution": [
+        [
+          "We"
+        ],
+        [
+          "really"
+        ],
+        [
+          "don't"
+        ],
+        [
+          "know"
+        ],
+        [
+          "yet"
+        ],
+        [
+          "how"
+        ],
+        [
+          "to"
+        ],
+        [
+          "make"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "safe"
+        ],
+        [
+          "or"
+        ],
+        [
+          "whether"
+        ],
+        [
+          "we"
+        ],
+        [
+          "really"
+        ],
+        [
+          "can."
+        ]
+      ]
+    },
+    {
+      "index": 34,
+      "startMs": 216610,
+      "endMs": 223370,
+      "transcript": "Nobel Prize-winning computer scientist Jeffrey Hinton worries the world's leaders aren't ready to address AI safety risks.",
+      "solution": [
+        [
+          "Nobel"
+        ],
+        [
+          "Prize-winning"
+        ],
+        [
+          "computer"
+        ],
+        [
+          "scientist"
+        ],
+        [
+          "Jeffrey"
+        ],
+        [
+          "Hinton"
+        ],
+        [
+          "worries"
+        ],
+        [
+          "the"
+        ],
+        [
+          "world's"
+        ],
+        [
+          "leaders"
+        ],
+        [
+          "aren't"
+        ],
+        [
+          "ready"
+        ],
+        [
+          "to"
+        ],
+        [
+          "address"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "safety"
+        ],
+        [
+          "risks."
+        ]
+      ]
+    },
+    {
+      "index": 35,
+      "startMs": 223770,
+      "endMs": 224990,
+      "transcript": "AI has got two sides to it.",
+      "solution": [
+        [
+          "AI"
+        ],
+        [
+          "has"
+        ],
+        [
+          "got"
+        ],
+        [
+          "two"
+        ],
+        [
+          "sides"
+        ],
+        [
+          "to"
+        ],
+        [
+          "it."
+        ]
+      ]
+    },
+    {
+      "index": 36,
+      "startMs": 225110,
+      "endMs": 231330,
+      "transcript": "It's going to do tremendous good, but it's also got a lot of dangers like mass unemployment, fake videos for corrupting elections.",
+      "solution": [
+        [
+          "It's"
+        ],
+        [
+          "going"
+        ],
+        [
+          "to"
+        ],
+        [
+          "do"
+        ],
+        [
+          "tremendous"
+        ],
+        [
+          "good,"
+        ],
+        [
+          "but"
+        ],
+        [
+          "it's"
+        ],
+        [
+          "also"
+        ],
+        [
+          "got"
+        ],
+        [
+          "a"
+        ],
+        [
+          "lot"
+        ],
+        [
+          "of"
+        ],
+        [
+          "dangers"
+        ],
+        [
+          "like"
+        ],
+        [
+          "mass"
+        ],
+        [
+          "unemployment,"
+        ],
+        [
+          "fake"
+        ],
+        [
+          "videos"
+        ],
+        [
+          "for"
+        ],
+        [
+          "corrupting"
+        ],
+        [
+          "elections."
+        ]
+      ]
+    },
+    {
+      "index": 37,
+      "startMs": 231950,
+      "endMs": 233630,
+      "transcript": "I wish I'd thought about those issues sooner.",
+      "solution": [
+        [
+          "I"
+        ],
+        [
+          "wish"
+        ],
+        [
+          "I'd"
+        ],
+        [
+          "thought"
+        ],
+        [
+          "about"
+        ],
+        [
+          "those"
+        ],
+        [
+          "issues"
+        ],
+        [
+          "sooner."
+        ]
+      ]
+    },
+    {
+      "index": 38,
+      "startMs": 233630,
+      "endMs": 235890,
+      "transcript": "Look when nuclear weapons arrived,",
+      "solution": [
+        [
+          "Look"
+        ],
+        [
+          "when"
+        ],
+        [
+          "nuclear"
+        ],
+        [
+          "weapons"
+        ],
+        [
+          "arrived,"
+        ]
+      ]
+    },
+    {
+      "index": 39,
+      "startMs": 236770,
+      "endMs": 238610,
+      "transcript": "They arrived at the end of the Second World War,",
+      "solution": [
+        [
+          "They"
+        ],
+        [
+          "arrived"
+        ],
+        [
+          "at"
+        ],
+        [
+          "the"
+        ],
+        [
+          "end"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "Second"
+        ],
+        [
+          "World"
+        ],
+        [
+          "War,"
+        ]
+      ]
+    },
+    {
+      "index": 40,
+      "startMs": 239690,
+      "endMs": 242050,
+      "transcript": "When people were totally fed up with war,",
+      "solution": [
+        [
+          "When"
+        ],
+        [
+          "people"
+        ],
+        [
+          "were"
+        ],
+        [
+          "totally"
+        ],
+        [
+          "fed"
+        ],
+        [
+          "up"
+        ],
+        [
+          "with"
+        ],
+        [
+          "war,"
+        ]
+      ]
+    },
+    {
+      "index": 41,
+      "startMs": 243290,
+      "endMs": 248870,
+      "transcript": "They didn't want more wars, and governments were much more reasonable than they are now.",
+      "solution": [
+        [
+          "They"
+        ],
+        [
+          "didn't"
+        ],
+        [
+          "want"
+        ],
+        [
+          "more"
+        ],
+        [
+          "wars,"
+        ],
+        [
+          "and"
+        ],
+        [
+          "governments"
+        ],
+        [
+          "were"
+        ],
+        [
+          "much"
+        ],
+        [
+          "more"
+        ],
+        [
+          "reasonable"
+        ],
+        [
+          "than"
+        ],
+        [
+          "they"
+        ],
+        [
+          "are"
+        ],
+        [
+          "now."
+        ]
+      ]
+    },
+    {
+      "index": 42,
+      "startMs": 249590,
+      "endMs": 253250,
+      "transcript": "It's a terrible time to have to deal with a new technology with governments like that.",
+      "solution": [
+        [
+          "It's"
+        ],
+        [
+          "a"
+        ],
+        [
+          "terrible"
+        ],
+        [
+          "time"
+        ],
+        [
+          "to"
+        ],
+        [
+          "have"
+        ],
+        [
+          "to"
+        ],
+        [
+          "deal"
+        ],
+        [
+          "with"
+        ],
+        [
+          "a"
+        ],
+        [
+          "new"
+        ],
+        [
+          "technology"
+        ],
+        [
+          "with"
+        ],
+        [
+          "governments"
+        ],
+        [
+          "like"
+        ],
+        [
+          "that."
+        ]
+      ]
+    },
+    {
+      "index": 43,
+      "startMs": 253590,
+      "endMs": 261150,
+      "transcript": "Canadian Prime Minister Mark Carney recently announced a national AI strategy, aiming to boost the local industry that's grown up around Hinton.",
+      "solution": [
+        [
+          "Canadian"
+        ],
+        [
+          "Prime"
+        ],
+        [
+          "Minister"
+        ],
+        [
+          "Mark"
+        ],
+        [
+          "Carney"
+        ],
+        [
+          "recently"
+        ],
+        [
+          "announced"
+        ],
+        [
+          "a"
+        ],
+        [
+          "national"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "strategy,"
+        ],
+        [
+          "aiming"
+        ],
+        [
+          "to"
+        ],
+        [
+          "boost"
+        ],
+        [
+          "the"
+        ],
+        [
+          "local"
+        ],
+        [
+          "industry"
+        ],
+        [
+          "that's"
+        ],
+        [
+          "grown"
+        ],
+        [
+          "up"
+        ],
+        [
+          "around"
+        ],
+        [
+          "Hinton."
+        ]
+      ]
+    },
+    {
+      "index": 44,
+      "startMs": 261150,
+      "endMs": 268370,
+      "transcript": "It includes more than $2 billion in spending on AI research and education and new safety guardrails.",
+      "solution": [
+        [
+          "It"
+        ],
+        [
+          "includes"
+        ],
+        [
+          "more"
+        ],
+        [
+          "than"
+        ],
+        [
+          "$2"
+        ],
+        [
+          "billion"
+        ],
+        [
+          "in"
+        ],
+        [
+          "spending"
+        ],
+        [
+          "on"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "research"
+        ],
+        [
+          "and"
+        ],
+        [
+          "education"
+        ],
+        [
+          "and"
+        ],
+        [
+          "new"
+        ],
+        [
+          "safety"
+        ],
+        [
+          "guardrails."
+        ]
+      ]
+    },
+    {
+      "index": 45,
+      "startMs": 268610,
+      "endMs": 272770,
+      "transcript": "Are governments moving quickly enough to put guardrails around this technology?",
+      "solution": [
+        [
+          "Are"
+        ],
+        [
+          "governments"
+        ],
+        [
+          "moving"
+        ],
+        [
+          "quickly"
+        ],
+        [
+          "enough"
+        ],
+        [
+          "to"
+        ],
+        [
+          "put"
+        ],
+        [
+          "guardrails"
+        ],
+        [
+          "around"
+        ],
+        [
+          "this"
+        ],
+        [
+          "technology?"
+        ]
+      ]
+    },
+    {
+      "index": 46,
+      "startMs": 277190,
+      "endMs": 279230,
+      "transcript": "There we have the diversity of opinion.",
+      "solution": [
+        [
+          "There"
+        ],
+        [
+          "we"
+        ],
+        [
+          "have"
+        ],
+        [
+          "the"
+        ],
+        [
+          "diversity"
+        ],
+        [
+          "of"
+        ],
+        [
+          "opinion."
+        ]
+      ]
+    },
+    {
+      "index": 47,
+      "startMs": 280570,
+      "endMs": 286150,
+      "transcript": "I think the government is doing a good job of talking to experts and understanding the nature of the technology.",
+      "solution": [
+        [
+          "I"
+        ],
+        [
+          "think"
+        ],
+        [
+          "the"
+        ],
+        [
+          "government"
+        ],
+        [
+          "is"
+        ],
+        [
+          "doing"
+        ],
+        [
+          "a"
+        ],
+        [
+          "good"
+        ],
+        [
+          "job"
+        ],
+        [
+          "of"
+        ],
+        [
+          "talking"
+        ],
+        [
+          "to"
+        ],
+        [
+          "experts"
+        ],
+        [
+          "and"
+        ],
+        [
+          "understanding"
+        ],
+        [
+          "the"
+        ],
+        [
+          "nature"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "technology."
+        ]
+      ]
+    },
+    {
+      "index": 48,
+      "startMs": 286150,
+      "endMs": 291310,
+      "transcript": "That diversity of opinion is just one benefit of building in Toronto, its AI leaders say.",
+      "solution": [
+        [
+          "That"
+        ],
+        [
+          "diversity"
+        ],
+        [
+          "of"
+        ],
+        [
+          "opinion"
+        ],
+        [
+          "is"
+        ],
+        [
+          "just"
+        ],
+        [
+          "one"
+        ],
+        [
+          "benefit"
+        ],
+        [
+          "of"
+        ],
+        [
+          "building"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Toronto,"
+        ],
+        [
+          "its"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "leaders"
+        ],
+        [
+          "say."
+        ]
+      ]
+    },
+    {
+      "index": 49,
+      "startMs": 292010,
+      "endMs": 296090,
+      "transcript": "Nick Frost studied under Hinton and co-founded the enterprise AI firm Cohere.",
+      "solution": [
+        [
+          "Nick"
+        ],
+        [
+          "Frost"
+        ],
+        [
+          "studied"
+        ],
+        [
+          "under"
+        ],
+        [
+          "Hinton"
+        ],
+        [
+          "and"
+        ],
+        [
+          "co-founded"
+        ],
+        [
+          "the"
+        ],
+        [
+          "enterprise"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "firm"
+        ],
+        [
+          "Cohere."
+        ]
+      ]
+    },
+    {
+      "index": 50,
+      "startMs": 296830,
+      "endMs": 300130,
+      "transcript": "Jordan Jacobs is managing partner of investment firm Radical Ventures.",
+      "solution": [
+        [
+          "Jordan"
+        ],
+        [
+          "Jacobs"
+        ],
+        [
+          "is"
+        ],
+        [
+          "managing"
+        ],
+        [
+          "partner"
+        ],
+        [
+          "of"
+        ],
+        [
+          "investment"
+        ],
+        [
+          "firm"
+        ],
+        [
+          "Radical"
+        ],
+        [
+          "Ventures."
+        ]
+      ]
+    },
+    {
+      "index": 51,
+      "startMs": 300550,
+      "endMs": 303290,
+      "transcript": "All of you have decided to build in Toronto.",
+      "solution": [
+        [
+          "All"
+        ],
+        [
+          "of"
+        ],
+        [
+          "you"
+        ],
+        [
+          "have"
+        ],
+        [
+          "decided"
+        ],
+        [
+          "to"
+        ],
+        [
+          "build"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Toronto."
+        ]
+      ]
+    },
+    {
+      "index": 52,
+      "startMs": 303450,
+      "endMs": 306370,
+      "transcript": "I'm sure all of you could have gone many other places.",
+      "solution": [
+        [
+          "I'm"
+        ],
+        [
+          "sure"
+        ],
+        [
+          "all"
+        ],
+        [
+          "of"
+        ],
+        [
+          "you"
+        ],
+        [
+          "could"
+        ],
+        [
+          "have"
+        ],
+        [
+          "gone"
+        ],
+        [
+          "many"
+        ],
+        [
+          "other"
+        ],
+        [
+          "places."
+        ]
+      ]
+    },
+    {
+      "index": 53,
+      "startMs": 306870,
+      "endMs": 308110,
+      "transcript": "What potential did you see here?",
+      "solution": [
+        [
+          "What"
+        ],
+        [
+          "potential"
+        ],
+        [
+          "did"
+        ],
+        [
+          "you"
+        ],
+        [
+          "see"
+        ],
+        [
+          "here?"
+        ]
+      ]
+    },
+    {
+      "index": 54,
+      "startMs": 308750,
+      "endMs": 314670,
+      "transcript": "Really good researchers like to be in a nice society and Canada has decent health care.",
+      "solution": [
+        [
+          "Really"
+        ],
+        [
+          "good"
+        ],
+        [
+          "researchers"
+        ],
+        [
+          "like"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "in"
+        ],
+        [
+          "a"
+        ],
+        [
+          "nice"
+        ],
+        [
+          "society"
+        ],
+        [
+          "and"
+        ],
+        [
+          "Canada"
+        ],
+        [
+          "has"
+        ],
+        [
+          "decent"
+        ],
+        [
+          "health"
+        ],
+        [
+          "care."
+        ]
+      ]
+    },
+    {
+      "index": 55,
+      "startMs": 315770,
+      "endMs": 317990,
+      "transcript": "It's a much more multicultural society.",
+      "solution": [
+        [
+          "It's"
+        ],
+        [
+          "a"
+        ],
+        [
+          "much"
+        ],
+        [
+          "more"
+        ],
+        [
+          "multicultural"
+        ],
+        [
+          "society."
+        ]
+      ]
+    },
+    {
+      "index": 56,
+      "startMs": 318870,
+      "endMs": 320990,
+      "transcript": "It used to be that the states welcomed immigrants.",
+      "solution": [
+        [
+          "It"
+        ],
+        [
+          "used"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "that"
+        ],
+        [
+          "the"
+        ],
+        [
+          "states"
+        ],
+        [
+          "welcomed"
+        ],
+        [
+          "immigrants."
+        ]
+      ]
+    },
+    {
+      "index": 57,
+      "startMs": 322390,
+      "endMs": 325630,
+      "transcript": "Now the states is pretty neutral on that. There's a great tech ecosystem.",
+      "solution": [
+        [
+          "Now"
+        ],
+        [
+          "the"
+        ],
+        [
+          "states"
+        ],
+        [
+          "is"
+        ],
+        [
+          "pretty"
+        ],
+        [
+          "neutral"
+        ],
+        [
+          "on"
+        ],
+        [
+          "that."
+        ],
+        [
+          "There's"
+        ],
+        [
+          "a"
+        ],
+        [
+          "great"
+        ],
+        [
+          "tech"
+        ],
+        [
+          "ecosystem."
+        ]
+      ]
+    },
+    {
+      "index": 58,
+      "startMs": 326110,
+      "endMs": 327530,
+      "transcript": "There's also a great arts community.",
+      "solution": [
+        [
+          "There's"
+        ],
+        [
+          "also"
+        ],
+        [
+          "a"
+        ],
+        [
+          "great"
+        ],
+        [
+          "arts"
+        ],
+        [
+          "community."
+        ]
+      ]
+    },
+    {
+      "index": 59,
+      "startMs": 327870,
+      "endMs": 331710,
+      "transcript": "There's also a great academic community. There's a great business community. Like all of it is here.",
+      "solution": [
+        [
+          "There's"
+        ],
+        [
+          "also"
+        ],
+        [
+          "a"
+        ],
+        [
+          "great"
+        ],
+        [
+          "academic"
+        ],
+        [
+          "community."
+        ],
+        [
+          "There's"
+        ],
+        [
+          "a"
+        ],
+        [
+          "great"
+        ],
+        [
+          "business"
+        ],
+        [
+          "community."
+        ],
+        [
+          "Like"
+        ],
+        [
+          "all"
+        ],
+        [
+          "of"
+        ],
+        [
+          "it"
+        ],
+        [
+          "is"
+        ],
+        [
+          "here."
+        ]
+      ]
+    },
+    {
+      "index": 60,
+      "startMs": 331970,
+      "endMs": 333530,
+      "transcript": "It is not just startups now.",
+      "solution": [
+        [
+          "It"
+        ],
+        [
+          "is"
+        ],
+        [
+          "not"
+        ],
+        [
+          "just"
+        ],
+        [
+          "startups"
+        ],
+        [
+          "now."
+        ]
+      ]
+    },
+    {
+      "index": 61,
+      "startMs": 333690,
+      "endMs": 335310,
+      "transcript": "You've got major corporations.",
+      "solution": [
+        [
+          "You've"
+        ],
+        [
+          "got"
+        ],
+        [
+          "major"
+        ],
+        [
+          "corporations."
+        ]
+      ]
+    },
+    {
+      "index": 62,
+      "startMs": 335570,
+      "endMs": 342130,
+      "transcript": "I know pharmaceutical giant Sanofi just announced it's investing nearly $300 million in an AI center of excellence in Toronto.",
+      "solution": [
+        [
+          "I"
+        ],
+        [
+          "know"
+        ],
+        [
+          "pharmaceutical"
+        ],
+        [
+          "giant"
+        ],
+        [
+          "Sanofi"
+        ],
+        [
+          "just"
+        ],
+        [
+          "announced"
+        ],
+        [
+          "it's"
+        ],
+        [
+          "investing"
+        ],
+        [
+          "nearly"
+        ],
+        [
+          "$300"
+        ],
+        [
+          "million"
+        ],
+        [
+          "in"
+        ],
+        [
+          "an"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "center"
+        ],
+        [
+          "of"
+        ],
+        [
+          "excellence"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Toronto."
+        ]
+      ]
+    },
+    {
+      "index": 63,
+      "startMs": 343190,
+      "endMs": 344770,
+      "transcript": "Why are they choosing Toronto?",
+      "solution": [
+        [
+          "Why"
+        ],
+        [
+          "are"
+        ],
+        [
+          "they"
+        ],
+        [
+          "choosing"
+        ],
+        [
+          "Toronto?"
+        ]
+      ]
+    },
+    {
+      "index": 64,
+      "startMs": 344770,
+      "endMs": 350970,
+      "transcript": "The number of really high quality data scientists, people in AI, engineers is extraordinary.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "number"
+        ],
+        [
+          "of"
+        ],
+        [
+          "really"
+        ],
+        [
+          "high"
+        ],
+        [
+          "quality"
+        ],
+        [
+          "data"
+        ],
+        [
+          "scientists,"
+        ],
+        [
+          "people"
+        ],
+        [
+          "in"
+        ],
+        [
+          "AI,"
+        ],
+        [
+          "engineers"
+        ],
+        [
+          "is"
+        ],
+        [
+          "extraordinary."
+        ]
+      ]
+    },
+    {
+      "index": 65,
+      "startMs": 351810,
+      "endMs": 354710,
+      "transcript": "And then secondly, it's the proximity to huge markets.",
+      "solution": [
+        [
+          "And"
+        ],
+        [
+          "then"
+        ],
+        [
+          "secondly,"
+        ],
+        [
+          "it's"
+        ],
+        [
+          "the"
+        ],
+        [
+          "proximity"
+        ],
+        [
+          "to"
+        ],
+        [
+          "huge"
+        ],
+        [
+          "markets."
+        ]
+      ]
+    },
+    {
+      "index": 66,
+      "startMs": 355190,
+      "endMs": 360970,
+      "transcript": "So you can get in a flight that's 90 minutes long and reach 200 million people from Toronto.",
+      "solution": [
+        [
+          "So"
+        ],
+        [
+          "you"
+        ],
+        [
+          "can"
+        ],
+        [
+          "get"
+        ],
+        [
+          "in"
+        ],
+        [
+          "a"
+        ],
+        [
+          "flight"
+        ],
+        [
+          "that's"
+        ],
+        [
+          "90"
+        ],
+        [
+          "minutes"
+        ],
+        [
+          "long"
+        ],
+        [
+          "and"
+        ],
+        [
+          "reach"
+        ],
+        [
+          "200"
+        ],
+        [
+          "million"
+        ],
+        [
+          "people"
+        ],
+        [
+          "from"
+        ],
+        [
+          "Toronto."
+        ]
+      ]
+    },
+    {
+      "index": 67,
+      "startMs": 361790,
+      "endMs": 367870,
+      "transcript": "Toronto now ranks as the world's third best tech talent market, according to an analysis by commercial real estate firm CBRE.",
+      "solution": [
+        [
+          "Toronto"
+        ],
+        [
+          "now"
+        ],
+        [
+          "ranks"
+        ],
+        [
+          "as"
+        ],
+        [
+          "the"
+        ],
+        [
+          "world's"
+        ],
+        [
+          "third"
+        ],
+        [
+          "best"
+        ],
+        [
+          "tech"
+        ],
+        [
+          "talent"
+        ],
+        [
+          "market,"
+        ],
+        [
+          "according"
+        ],
+        [
+          "to"
+        ],
+        [
+          "an"
+        ],
+        [
+          "analysis"
+        ],
+        [
+          "by"
+        ],
+        [
+          "commercial"
+        ],
+        [
+          "real"
+        ],
+        [
+          "estate"
+        ],
+        [
+          "firm"
+        ],
+        [
+          "CBRE."
+        ]
+      ]
+    },
+    {
+      "index": 68,
+      "startMs": 368790,
+      "endMs": 375550,
+      "transcript": "That's helping to create globally competitive tech unicorns like Frost's Cohere and autonomous trucking company Wabi.",
+      "solution": [
+        [
+          "That's"
+        ],
+        [
+          "helping"
+        ],
+        [
+          "to"
+        ],
+        [
+          "create"
+        ],
+        [
+          "globally"
+        ],
+        [
+          "competitive"
+        ],
+        [
+          "tech"
+        ],
+        [
+          "unicorns"
+        ],
+        [
+          "like"
+        ],
+        [
+          "Frost's"
+        ],
+        [
+          "Cohere"
+        ],
+        [
+          "and"
+        ],
+        [
+          "autonomous"
+        ],
+        [
+          "trucking"
+        ],
+        [
+          "company"
+        ],
+        [
+          "Wabi."
+        ]
+      ]
+    },
+    {
+      "index": 69,
+      "startMs": 375950,
+      "endMs": 388230,
+      "transcript": "One of the things that people might worry about when thinking about building outside of Silicon Valley is access to capital and yet Wabi is a five-year-old company and you announced this year that you've raised over a billion dollar",
+      "solution": [
+        [
+          "One"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "things"
+        ],
+        [
+          "that"
+        ],
+        [
+          "people"
+        ],
+        [
+          "might"
+        ],
+        [
+          "worry"
+        ],
+        [
+          "about"
+        ],
+        [
+          "when"
+        ],
+        [
+          "thinking"
+        ],
+        [
+          "about"
+        ],
+        [
+          "building"
+        ],
+        [
+          "outside"
+        ],
+        [
+          "of"
+        ],
+        [
+          "Silicon"
+        ],
+        [
+          "Valley"
+        ],
+        [
+          "is"
+        ],
+        [
+          "access"
+        ],
+        [
+          "to"
+        ],
+        [
+          "capital"
+        ],
+        [
+          "and"
+        ],
+        [
+          "yet"
+        ],
+        [
+          "Wabi"
+        ],
+        [
+          "is"
+        ],
+        [
+          "a"
+        ],
+        [
+          "five-year-old"
+        ],
+        [
+          "company"
+        ],
+        [
+          "and"
+        ],
+        [
+          "you"
+        ],
+        [
+          "announced"
+        ],
+        [
+          "this"
+        ],
+        [
+          "year"
+        ],
+        [
+          "that"
+        ],
+        [
+          "you've"
+        ],
+        [
+          "raised"
+        ],
+        [
+          "over"
+        ],
+        [
+          "a"
+        ],
+        [
+          "billion"
+        ],
+        [
+          "dollar"
+        ]
+      ]
+    },
+    {
+      "index": 70,
+      "startMs": 388230,
+      "endMs": 391930,
+      "transcript": "Series C, the largest funding round in Canada history.",
+      "solution": [
+        [
+          "Series"
+        ],
+        [
+          "C,"
+        ],
+        [
+          "the"
+        ],
+        [
+          "largest"
+        ],
+        [
+          "funding"
+        ],
+        [
+          "round"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Canada"
+        ],
+        [
+          "history."
+        ]
+      ]
+    },
+    {
+      "index": 71,
+      "startMs": 392590,
+      "endMs": 399470,
+      "transcript": "At the end of the day, what attracts investors is, you know, what are going to be the top company that is leading,",
+      "solution": [
+        [
+          "At"
+        ],
+        [
+          "the"
+        ],
+        [
+          "end"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "day,"
+        ],
+        [
+          "what"
+        ],
+        [
+          "attracts"
+        ],
+        [
+          "investors"
+        ],
+        [
+          "is,"
+        ],
+        [
+          "you"
+        ],
+        [
+          "know,"
+        ],
+        [
+          "what"
+        ],
+        [
+          "are"
+        ],
+        [
+          "going"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "the"
+        ],
+        [
+          "top"
+        ],
+        [
+          "company"
+        ],
+        [
+          "that"
+        ],
+        [
+          "is"
+        ],
+        [
+          "leading,"
+        ]
+      ]
+    },
+    {
+      "index": 72,
+      "startMs": 399470,
+      "endMs": 400930,
+      "transcript": "You know, a massive market.",
+      "solution": [
+        [
+          "You"
+        ],
+        [
+          "know,"
+        ],
+        [
+          "a"
+        ],
+        [
+          "massive"
+        ],
+        [
+          "market."
+        ]
+      ]
+    },
+    {
+      "index": 73,
+      "startMs": 401310,
+      "endMs": 405190,
+      "transcript": "Whether we are in Canada, whether we are in the Silicon Valley, it didn't really matter whatsoever.",
+      "solution": [
+        [
+          "Whether"
+        ],
+        [
+          "we"
+        ],
+        [
+          "are"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Canada,"
+        ],
+        [
+          "whether"
+        ],
+        [
+          "we"
+        ],
+        [
+          "are"
+        ],
+        [
+          "in"
+        ],
+        [
+          "the"
+        ],
+        [
+          "Silicon"
+        ],
+        [
+          "Valley,"
+        ],
+        [
+          "it"
+        ],
+        [
+          "didn't"
+        ],
+        [
+          "really"
+        ],
+        [
+          "matter"
+        ],
+        [
+          "whatsoever."
+        ]
+      ]
+    },
+    {
+      "index": 74,
+      "startMs": 405890,
+      "endMs": 412250,
+      "transcript": "A lot of the innovation that has power, the revolution of AI that we see today, actually traces back to the Toronto ecosystem.",
+      "solution": [
+        [
+          "A"
+        ],
+        [
+          "lot"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "innovation"
+        ],
+        [
+          "that"
+        ],
+        [
+          "has"
+        ],
+        [
+          "power,"
+        ],
+        [
+          "the"
+        ],
+        [
+          "revolution"
+        ],
+        [
+          "of"
+        ],
+        [
+          "AI"
+        ],
+        [
+          "that"
+        ],
+        [
+          "we"
+        ],
+        [
+          "see"
+        ],
+        [
+          "today,"
+        ],
+        [
+          "actually"
+        ],
+        [
+          "traces"
+        ],
+        [
+          "back"
+        ],
+        [
+          "to"
+        ],
+        [
+          "the"
+        ],
+        [
+          "Toronto"
+        ],
+        [
+          "ecosystem."
+        ]
+      ]
+    },
+    {
+      "index": 75,
+      "startMs": 414450,
+      "endMs": 420150,
+      "transcript": "A long-delayed bridge linking China to North Korea has officially opened, according to Chinese state media.",
+      "solution": [
+        [
+          "A"
+        ],
+        [
+          "long-delayed"
+        ],
+        [
+          "bridge"
+        ],
+        [
+          "linking"
+        ],
+        [
+          "China"
+        ],
+        [
+          "to"
+        ],
+        [
+          "North"
+        ],
+        [
+          "Korea"
+        ],
+        [
+          "has"
+        ],
+        [
+          "officially"
+        ],
+        [
+          "opened,"
+        ],
+        [
+          "according"
+        ],
+        [
+          "to"
+        ],
+        [
+          "Chinese"
+        ],
+        [
+          "state"
+        ],
+        [
+          "media."
+        ]
+      ]
+    },
+    {
+      "index": 76,
+      "startMs": 420670,
+      "endMs": 425530,
+      "transcript": "The two countries held a joint opening ceremony on Thursday for the new Yalu River Bridge.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "two"
+        ],
+        [
+          "countries"
+        ],
+        [
+          "held"
+        ],
+        [
+          "a"
+        ],
+        [
+          "joint"
+        ],
+        [
+          "opening"
+        ],
+        [
+          "ceremony"
+        ],
+        [
+          "on"
+        ],
+        [
+          "Thursday"
+        ],
+        [
+          "for"
+        ],
+        [
+          "the"
+        ],
+        [
+          "new"
+        ],
+        [
+          "Yalu"
+        ],
+        [
+          "River"
+        ],
+        [
+          "Bridge."
+        ]
+      ]
+    },
+    {
+      "index": 77,
+      "startMs": 425990,
+      "endMs": 432190,
+      "transcript": "China finished its side of the bridge in 2014, but North Korea had left its side unfinished for years,",
+      "solution": [
+        [
+          "China"
+        ],
+        [
+          "finished"
+        ],
+        [
+          "its"
+        ],
+        [
+          "side"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "bridge"
+        ],
+        [
+          "in"
+        ],
+        [
+          "2014,"
+        ],
+        [
+          "but"
+        ],
+        [
+          "North"
+        ],
+        [
+          "Korea"
+        ],
+        [
+          "had"
+        ],
+        [
+          "left"
+        ],
+        [
+          "its"
+        ],
+        [
+          "side"
+        ],
+        [
+          "unfinished"
+        ],
+        [
+          "for"
+        ],
+        [
+          "years,"
+        ]
+      ]
+    },
+    {
+      "index": 78,
+      "startMs": 432910,
+      "endMs": 436990,
+      "transcript": "Amid souring relations following Pyongyang's nuclear testing and UN sanctions.",
+      "solution": [
+        [
+          "Amid"
+        ],
+        [
+          "souring"
+        ],
+        [
+          "relations"
+        ],
+        [
+          "following"
+        ],
+        [
+          "Pyongyang's"
+        ],
+        [
+          "nuclear"
+        ],
+        [
+          "testing"
+        ],
+        [
+          "and"
+        ],
+        [
+          "UN"
+        ],
+        [
+          "sanctions."
+        ]
+      ]
+    },
+    {
+      "index": 79,
+      "startMs": 443210,
+      "endMs": 450150,
+      "transcript": "Today's story getting a 10 out of 10, one of the greatest athletes of all time, meets one of the greatest toys of all time.",
+      "solution": [
+        [
+          "Today's"
+        ],
+        [
+          "story"
+        ],
+        [
+          "getting"
+        ],
+        [
+          "a"
+        ],
+        [
+          "10"
+        ],
+        [
+          "out"
+        ],
+        [
+          "of"
+        ],
+        [
+          "10,"
+        ],
+        [
+          "one"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "greatest"
+        ],
+        [
+          "athletes"
+        ],
+        [
+          "of"
+        ],
+        [
+          "all"
+        ],
+        [
+          "time,"
+        ],
+        [
+          "meets"
+        ],
+        [
+          "one"
+        ],
+        [
+          "of"
+        ],
+        [
+          "the"
+        ],
+        [
+          "greatest"
+        ],
+        [
+          "toys"
+        ],
+        [
+          "of"
+        ],
+        [
+          "all"
+        ],
+        [
+          "time."
+        ]
+      ]
+    },
+    {
+      "index": 80,
+      "startMs": 450690,
+      "endMs": 458610,
+      "transcript": "23 Grand Slam titles, four Olympic gold medals, and now tennis great Serena Williams has her very own Barbie doll.",
+      "solution": [
+        [
+          "23"
+        ],
+        [
+          "Grand"
+        ],
+        [
+          "Slam"
+        ],
+        [
+          "titles,"
+        ],
+        [
+          "four"
+        ],
+        [
+          "Olympic"
+        ],
+        [
+          "gold"
+        ],
+        [
+          "medals,"
+        ],
+        [
+          "and"
+        ],
+        [
+          "now"
+        ],
+        [
+          "tennis"
+        ],
+        [
+          "great"
+        ],
+        [
+          "Serena"
+        ],
+        [
+          "Williams"
+        ],
+        [
+          "has"
+        ],
+        [
+          "her"
+        ],
+        [
+          "very"
+        ],
+        [
+          "own"
+        ],
+        [
+          "Barbie"
+        ],
+        [
+          "doll."
+        ]
+      ]
+    },
+    {
+      "index": 81,
+      "startMs": 458810,
+      "endMs": 465610,
+      "transcript": "I'm especially excited for this because my girls love playing Barbies, And my little one just started playing Barbies all the time now.",
+      "solution": [
+        [
+          "I'm"
+        ],
+        [
+          "especially"
+        ],
+        [
+          "excited"
+        ],
+        [
+          "for"
+        ],
+        [
+          "this"
+        ],
+        [
+          "because"
+        ],
+        [
+          "my"
+        ],
+        [
+          "girls"
+        ],
+        [
+          "love"
+        ],
+        [
+          "playing"
+        ],
+        [
+          "Barbies,"
+        ],
+        [
+          "And"
+        ],
+        [
+          "my"
+        ],
+        [
+          "little"
+        ],
+        [
+          "one"
+        ],
+        [
+          "just"
+        ],
+        [
+          "started"
+        ],
+        [
+          "playing"
+        ],
+        [
+          "Barbies"
+        ],
+        [
+          "all"
+        ],
+        [
+          "the"
+        ],
+        [
+          "time"
+        ],
+        [
+          "now."
+        ]
+      ]
+    },
+    {
+      "index": 82,
+      "startMs": 465850,
+      "endMs": 467190,
+      "transcript": "So guess what's happening?",
+      "solution": [
+        [
+          "So"
+        ],
+        [
+          "guess"
+        ],
+        [
+          "what's"
+        ],
+        [
+          "happening?"
+        ]
+      ]
+    },
+    {
+      "index": 83,
+      "startMs": 467210,
+      "endMs": 469150,
+      "transcript": "There's a mama character Mm-hmm.",
+      "solution": [
+        [
+          "There's"
+        ],
+        [
+          "a"
+        ],
+        [
+          "mama"
+        ],
+        [
+          "character"
+        ],
+        [
+          "Mm-hmm."
+        ]
+      ]
+    },
+    {
+      "index": 84,
+      "startMs": 469330,
+      "endMs": 481550,
+      "transcript": "Williams was introduced into Mattel's global dream team of eight female change makers Her dolls likeness is said to be inspired by her 2005 Australian open victory And she is wearing the same highlighter",
+      "solution": [
+        [
+          "Williams"
+        ],
+        [
+          "was"
+        ],
+        [
+          "introduced"
+        ],
+        [
+          "into"
+        ],
+        [
+          "Mattel's"
+        ],
+        [
+          "global"
+        ],
+        [
+          "dream"
+        ],
+        [
+          "team"
+        ],
+        [
+          "of"
+        ],
+        [
+          "eight"
+        ],
+        [
+          "female"
+        ],
+        [
+          "change"
+        ],
+        [
+          "makers"
+        ],
+        [
+          "Her"
+        ],
+        [
+          "dolls"
+        ],
+        [
+          "likeness"
+        ],
+        [
+          "is"
+        ],
+        [
+          "said"
+        ],
+        [
+          "to"
+        ],
+        [
+          "be"
+        ],
+        [
+          "inspired"
+        ],
+        [
+          "by"
+        ],
+        [
+          "her"
+        ],
+        [
+          "2005"
+        ],
+        [
+          "Australian"
+        ],
+        [
+          "open"
+        ],
+        [
+          "victory"
+        ],
+        [
+          "And"
+        ],
+        [
+          "she"
+        ],
+        [
+          "is"
+        ],
+        [
+          "wearing"
+        ],
+        [
+          "the"
+        ],
+        [
+          "same"
+        ],
+        [
+          "highlighter"
+        ]
+      ]
+    },
+    {
+      "index": 85,
+      "startMs": 481550,
+      "endMs": 488430,
+      "transcript": "Yellow outfit her monumental legacy extending beyond the tennis court and into a Barbie world Alright,",
+      "solution": [
+        [
+          "Yellow"
+        ],
+        [
+          "outfit"
+        ],
+        [
+          "her"
+        ],
+        [
+          "monumental"
+        ],
+        [
+          "legacy"
+        ],
+        [
+          "extending"
+        ],
+        [
+          "beyond"
+        ],
+        [
+          "the"
+        ],
+        [
+          "tennis"
+        ],
+        [
+          "court"
+        ],
+        [
+          "and"
+        ],
+        [
+          "into"
+        ],
+        [
+          "a"
+        ],
+        [
+          "Barbie"
+        ],
+        [
+          "world"
+        ],
+        [
+          "Alright,"
+        ]
+      ]
+    },
+    {
+      "index": 86,
+      "startMs": 488450,
+      "endMs": 491750,
+      "transcript": "I've got time for two shout outs on this Friday First up, Mrs.",
+      "solution": [
+        [
+          "I've"
+        ],
+        [
+          "got"
+        ],
+        [
+          "time"
+        ],
+        [
+          "for"
+        ],
+        [
+          "two"
+        ],
+        [
+          "shout"
+        ],
+        [
+          "outs"
+        ],
+        [
+          "on"
+        ],
+        [
+          "this"
+        ],
+        [
+          "Friday"
+        ],
+        [
+          "First"
+        ],
+        [
+          "up,"
+        ],
+        [
+          "Mrs."
+        ]
+      ]
+    },
+    {
+      "index": 87,
+      "startMs": 491930,
+      "endMs": 494250,
+      "transcript": "LaRose at Exeter High School in New Hampshire.",
+      "solution": [
+        [
+          "LaRose"
+        ],
+        [
+          "at"
+        ],
+        [
+          "Exeter"
+        ],
+        [
+          "High"
+        ],
+        [
+          "School"
+        ],
+        [
+          "in"
+        ],
+        [
+          "New"
+        ],
+        [
+          "Hampshire."
+        ]
+      ]
+    },
+    {
+      "index": 88,
+      "startMs": 494950,
+      "endMs": 496610,
+      "transcript": "Thank you for sharing the show with your classroom.",
+      "solution": [
+        [
+          "Thank"
+        ],
+        [
+          "you"
+        ],
+        [
+          "for"
+        ],
+        [
+          "sharing"
+        ],
+        [
+          "the"
+        ],
+        [
+          "show"
+        ],
+        [
+          "with"
+        ],
+        [
+          "your"
+        ],
+        [
+          "classroom."
+        ]
+      ]
+    },
+    {
+      "index": 89,
+      "startMs": 497550,
+      "endMs": 500330,
+      "transcript": "And this next one is going to Mr. Alexander and Mr.",
+      "solution": [
+        [
+          "And"
+        ],
+        [
+          "this"
+        ],
+        [
+          "next"
+        ],
+        [
+          "one"
+        ],
+        [
+          "is"
+        ],
+        [
+          "going"
+        ],
+        [
+          "to"
+        ],
+        [
+          "Mr."
+        ],
+        [
+          "Alexander"
+        ],
+        [
+          "and"
+        ],
+        [
+          "Mr."
+        ]
+      ]
+    },
+    {
+      "index": 90,
+      "startMs": 500550,
+      "endMs": 503570,
+      "transcript": "Dietrich at Fort Washoegee Middle School in Wyoming.",
+      "solution": [
+        [
+          "Dietrich"
+        ],
+        [
+          "at"
+        ],
+        [
+          "Fort"
+        ],
+        [
+          "Washoegee"
+        ],
+        [
+          "Middle"
+        ],
+        [
+          "School"
+        ],
+        [
+          "in"
+        ],
+        [
+          "Wyoming."
+        ]
+      ]
+    },
+    {
+      "index": 91,
+      "startMs": 503990,
+      "endMs": 505890,
+      "transcript": "Thank you for the kind email, and go Eagles.",
+      "solution": [
+        [
+          "Thank"
+        ],
+        [
+          "you"
+        ],
+        [
+          "for"
+        ],
+        [
+          "the"
+        ],
+        [
+          "kind"
+        ],
+        [
+          "email,"
+        ],
+        [
+          "and"
+        ],
+        [
+          "go"
+        ],
+        [
+          "Eagles."
+        ]
+      ]
+    },
+    {
+      "index": 92,
+      "startMs": 507290,
+      "endMs": 508710,
+      "transcript": "Before I go, a quick reminder.",
+      "solution": [
+        [
+          "Before"
+        ],
+        [
+          "I"
+        ],
+        [
+          "go,"
+        ],
+        [
+          "a"
+        ],
+        [
+          "quick"
+        ],
+        [
+          "reminder."
+        ]
+      ]
+    },
+    {
+      "index": 93,
+      "startMs": 508990,
+      "endMs": 511830,
+      "transcript": "The CNN 10 weekly news quiz is back.",
+      "solution": [
+        [
+          "The"
+        ],
+        [
+          "CNN"
+        ],
+        [
+          "10"
+        ],
+        [
+          "weekly"
+        ],
+        [
+          "news"
+        ],
+        [
+          "quiz"
+        ],
+        [
+          "is"
+        ],
+        [
+          "back."
+        ]
+      ]
+    },
+    {
+      "index": 94,
+      "startMs": 512710,
+      "endMs": 516410,
+      "transcript": "Teachers, you asked and we delivered. Students, sorry, not sorry.",
+      "solution": [
+        [
+          "Teachers,"
+        ],
+        [
+          "you"
+        ],
+        [
+          "asked"
+        ],
+        [
+          "and"
+        ],
+        [
+          "we"
+        ],
+        [
+          "delivered."
+        ],
+        [
+          "Students,"
+        ],
+        [
+          "sorry,"
+        ],
+        [
+          "not"
+        ],
+        [
+          "sorry."
+        ]
+      ]
+    },
+    {
+      "index": 95,
+      "startMs": 516730,
+      "endMs": 519890,
+      "transcript": "This thing was wildly popular, so we had to bring it back.",
+      "solution": [
+        [
+          "This"
+        ],
+        [
+          "thing"
+        ],
+        [
+          "was"
+        ],
+        [
+          "wildly"
+        ],
+        [
+          "popular,"
+        ],
+        [
+          "so"
+        ],
+        [
+          "we"
+        ],
+        [
+          "had"
+        ],
+        [
+          "to"
+        ],
+        [
+          "bring"
+        ],
+        [
+          "it"
+        ],
+        [
+          "back."
+        ]
+      ]
+    },
+    {
+      "index": 96,
+      "startMs": 519890,
+      "endMs": 522010,
+      "transcript": "And besides, knowledge is power.",
+      "solution": [
+        [
+          "And"
+        ],
+        [
+          "besides,"
+        ],
+        [
+          "knowledge"
+        ],
+        [
+          "is"
+        ],
+        [
+          "power."
+        ]
+      ]
+    },
+    {
+      "index": 97,
+      "startMs": 522650,
+      "endMs": 524210,
+      "transcript": "10 questions, multiple choice.",
+      "solution": [
+        [
+          "10"
+        ],
+        [
+          "questions,"
+        ],
+        [
+          "multiple"
+        ],
+        [
+          "choice."
+        ]
+      ]
+    },
+    {
+      "index": 98,
+      "startMs": 524790,
+      "endMs": 527790,
+      "transcript": "Here's your chance to show what you learned from this week's headlines.",
+      "solution": [
+        [
+          "Here's"
+        ],
+        [
+          "your"
+        ],
+        [
+          "chance"
+        ],
+        [
+          "to"
+        ],
+        [
+          "show"
+        ],
+        [
+          "what"
+        ],
+        [
+          "you"
+        ],
+        [
+          "learned"
+        ],
+        [
+          "from"
+        ],
+        [
+          "this"
+        ],
+        [
+          "week's"
+        ],
+        [
+          "headlines."
+        ]
+      ]
+    },
+    {
+      "index": 99,
+      "startMs": 528610,
+      "endMs": 532110,
+      "transcript": "I hope you all have a wonderful weekend. Koy will be back on Monday.",
+      "solution": [
+        [
+          "I"
+        ],
+        [
+          "hope"
+        ],
+        [
+          "you"
+        ],
+        [
+          "all"
+        ],
+        [
+          "have"
+        ],
+        [
+          "a"
+        ],
+        [
+          "wonderful"
+        ],
+        [
+          "weekend."
+        ],
+        [
+          "Koy"
+        ],
+        [
+          "will"
+        ],
+        [
+          "be"
+        ],
+        [
+          "back"
+        ],
+        [
+          "on"
+        ],
+        [
+          "Monday."
+        ]
+      ]
+    },
+    {
+      "index": 100,
+      "startMs": 532750,
+      "endMs": 534770,
+      "transcript": "I'm Claire Duffy and this is CNN 10.",
+      "solution": [
+        [
+          "I'm"
+        ],
+        [
+          "Claire"
+        ],
+        [
+          "Duffy"
+        ],
+        [
+          "and"
+        ],
+        [
+          "this"
+        ],
+        [
+          "is"
+        ],
+        [
+          "CNN"
+        ],
+        [
+          "10."
+        ]
+      ]
+    }
+  ]
+}
